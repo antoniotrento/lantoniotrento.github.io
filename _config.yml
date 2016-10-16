@@ -6,19 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title-bold: Forty
-title-normal: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/fortlyjeky.github.io" # the subpath of your site, e.g. /blog
-url: "https://fortlyjeky.github.io" # the base hostname & protocol for your site
+title-bold: LAntonio
+title-normal: Trento
+email: lantoniotrento@gmail.com
+description: Il mio lavoro ti consente la creazione di esperienze che coinvolgono gli utenti, progettando lo stile del tuo business su web.
+baseurl: "/lantoniotrento.github.io" # the subpath of your site, e.g. /blog
+url: "https://lantoniotrento.github.io" # the base hostname & protocol for your site
 author: 
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address: Prealpi 20
+city: Varese
+state: VA
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: Italia
+# phone: (716) 555-5555
 
 # Plugins
 gems:
@@ -33,15 +33,15 @@ tiles-count: 6
 
 # Social settings
 500px_url: 
-facebook_url: 
+facebook_url: https://facebook.com/officialtrento
 github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
+gitlab_url: 
+googleplus_url: https://plus.google.com/u/0/+AntonioTrentodj
+instagram_url: https://instagram.com/officialtrento
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url: 
+pinterest_url: https://pinterest.com/antoniotrento
 slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/lantoniotrento
 
 # Build settings
 markdown: kramdown

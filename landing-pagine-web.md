@@ -44,7 +44,7 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Create con cura</h3>
+					<h3>Progettate con cura</h3>
 				</header>
 				<p>Tutte i nostri progetti sono sviluppati con i migliori strumenti disponibili sul mercato, i quali garantiscono un prodotto corretto, robusto, versatile e durevole nel tempo.</p>
 				<ul class="actions">

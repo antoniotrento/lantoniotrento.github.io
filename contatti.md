@@ -116,10 +116,10 @@ nav-menu: yes
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 </section>
 
- Three -->
+
 <section id="three">
 	<div class="inner">
 		<header class="major">

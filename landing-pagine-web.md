@@ -46,7 +46,7 @@ nav-menu: yes
 				<header class="major">
 					<h3>Progettate con cura</h3>
 				</header>
-				<p>Tutte i nostri progetti sono sviluppati con i migliori strumenti disponibili sul mercato, i quali garantiscono un prodotto corretto, robusto, versatile e durevole nel tempo.</p>
+				<p>Tutte i nostri progetti sono sviluppati con i migliori strumenti disponibili sul mercato, i quali garantiscono un prodotto corretto, robusto, versatile e durevole nel tempo senza doverti preoccupare di manutenzione.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Dimmi di più</a></li>
 				</ul>
@@ -101,33 +101,45 @@ nav-menu: yes
 </section>
 
 <section id="one" class="tiles">
-	{% for post in site.posts limit:site.tiles-count %}
-	{% if site.tiles-source == 'posts' %}
         <article>
                 <span class="image">
                         <img src="{{ post.image }}" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="{{ site.baseurl }}{{ post.url }}" class="link">{{ post.title }}</a></h3>
-                        <p>{{ post.description }}</p>
+                        <h3><a href="https://spectraljeky.github.io" class="link">Spectral layout</a></h3>
+                        <p></p>
                 </header>
         </article>
-	{% endif %}
-	{% endfor %}
-	{% for page in site.pages limit:site.tiles-count %}
-	{% if site.tiles-source == 'pages' %}
+
         <article>
                 <span class="image">
                         <img src="{{ page.image }}" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}" class="link">{{ page.title }}</a></h3>
-                        <p>{{ page.description }}</p>
+                        <h3><a href="https://fortlyjeky.github.io/" class="link">Fortly layout</a></h3>
+                        <p></p>
                 </header>
         </article>
-	{% endif %}
-	{% endfor %}
 
+				<article>
+                <span class="image">
+                        <img src="{{ page.image }}" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://landjeky.github.io/" class="link">Land layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ page.image }}" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://artblog.github.io/" class="link">Art layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
 
 </section>
 

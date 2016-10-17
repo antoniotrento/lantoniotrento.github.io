@@ -29,9 +29,9 @@ nav-menu: yes
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Tool per la tua professionalit&agrave;</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Mi avvalgo di strumenti unici, leggeri e minimalisti che possano mettere in evideza tutti i punti salienti del tuo profilo professionale e personale, esaltando le qualità necessarie per raggiungere gli obiettivi che la tua professione o campo di studi comporta!</p>
 	</div>
 </section>
 
@@ -44,9 +44,9 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Per Imprenditori e Freelance</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Se sei un imprenditore e non hai tempo da perdere, posso realizzare per te le creatività necessarie per imporre la tua immagine su web, tramite un portfolio, pagine di presentazione della tua attività e, all’occorrenza una strategia di marketing adeguata alle tue esigenze e budget.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -60,11 +60,11 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Per Studenti e disoccupati</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Se sei uno studente o un disoccupato in cerca di occupazione, senza budget? ho preparato per te sul blog guide complete per creare da zero la tua immagine professionale con strumenti per lo sviluppo semplici, molto economici e che ti diano un vantaggio tecnico e competitivo rispetto tutti gli altri.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">In via di sviluppo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -76,9 +76,9 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Per ricercatori</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Se hai bisogno di creare una documentazione/manuale online per un tuo nuovo progetto, prototipo, una ricerca scientifica o qualsiasi altra cosa abbia bisogno di una documentazione su web robusta e scattante, con una buona esperienza utente sia da desktop che mobile.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -91,9 +91,9 @@ nav-menu: yes
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Hai bisogno di qualcosa di differenziante per colpire nel segno, in modo chiaro stiloso e dritto al punto, per non far perdere tempo a chi leggerà la tua presentazione.</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p></p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>

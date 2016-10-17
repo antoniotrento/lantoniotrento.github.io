@@ -76,7 +76,23 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Per ricercatori</h3>
+					<h3>Per relatori, professionisti e professori</h3>
+				</header>
+				<p>Posso creare per te presentazioni professionali che utilizzano le ultime tecnologie per riuscire a conubiare online ed offline, avendo sempre con te, a disposizione i tuoi strumenti di business e presentazione utilizzabili su qualsiasi dispositivo sulla terra.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Per ricerca e documentazione</h3>
 				</header>
 				<p>Se hai bisogno di creare una documentazione/manuale online per un tuo nuovo progetto, prototipo, una ricerca scientifica o qualsiasi altra cosa abbia bisogno di una documentazione su web robusta e scattante, con una buona esperienza utente sia da desktop che mobile.</p>
 				<ul class="actions">
@@ -91,13 +107,77 @@ nav-menu: yes
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Hai bisogno di qualcosa di differenziante per colpire nel segno, in modo chiaro stiloso e dritto al punto, per non far perdere tempo a chi leggerà la tua presentazione.</h2>
+			<h2>Colpisci nel segno</h2>
 		</header>
-		<p></p>
+		<p>Hai bisogno di qualcosa di differenziante per colpire nel segno, in modo chiaro stiloso e dritto al punto, per non far perdere tempo a chi leggerà la tua presentazione.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">Alcuni esempi</a></li>
 		</ul>
 	</div>
 </section>
+
+<section id="one" class="tiles">
+        <article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://spectraljeky.github.io" class="link">Spectral layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+        <article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://fortlyjeky.github.io/" class="link">Fortly layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://landjeky.github.io/" class="link">Land layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://artblog.github.io/" class="link">Art layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://jekyllagency.github.io/" class="link">Agency layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic06.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://twentyjeky.github.io" class="link">Twenty layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+</section>
+
 
 </div>

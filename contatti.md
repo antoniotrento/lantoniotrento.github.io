@@ -81,6 +81,8 @@ nav-menu: yes
 			</div>
 		</div>
 	</section>
+
+	<!-- PARTI IN PIU
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
@@ -97,6 +99,8 @@ nav-menu: yes
 			</div>
 		</div>
 	</section>
+
+
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
@@ -115,7 +119,7 @@ nav-menu: yes
 	</section>
 </section>
 
-<!-- Three -->
+ Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">

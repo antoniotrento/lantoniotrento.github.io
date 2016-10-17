@@ -123,7 +123,7 @@ nav-menu: yes
                 </span>
                 <header class="major">
                         <h3><a href="#" class="link">Strumenti da PRO</a></h3>
-                        <p>Tutti gli strumenti che utilizziamo sono professionali per un risultato finale di eccellenza e dettaglio.</p>
+                        <p>Tutti gli strumenti che utilizziamo sono professionali per un risultato finale di eccellenza e grande dettaglio.</p>
                 </header>
         </article>
 
@@ -142,12 +142,12 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://willjekyll.github.io" class="link">Will Theme</a></h3>
-                        <p></p>
+                        <h3><a href="#" class="link">Tutti i servizi</a></h3>
+                        <p>Scopri tutti i servizi che metto a disposizione per il tuo business.</p>
                 </header>
         </article>
 
-				<article>
+				<!-- <article>
                 <span class="image">
                         <img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" />
                 </span>
@@ -165,7 +165,7 @@ nav-menu: yes
                         <h3><a href="https://antoniotrento.github.io" class="link">Carte noir Theme</a></h3>
                         <p></p>
                 </header>
-        </article>
+        </article> -->
 
 </section>
 

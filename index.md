@@ -35,7 +35,7 @@ nav-menu:
 		<header class="major">
 			<h2>Crea la tua immagine su web!</h2>
 		</header>
-		<p>Avvalendomi degli strumenti più efficaci ed attuali sono ingrado di creare il tuo blog, portfolio, landing page pubblicitaria e di ideare e pianificare una strategia di promozione adatta ai servizi o prodotti di cui ti occupi!.</p>
+		<p>Avvalendomi degli strumenti più efficaci ed attuali sono ingrado di creare il tuo blog, portfolio, landing page pubblicitaria e di ideare e pianificare una strategia di promozione adatta ai servizi o prodotti di cui ti occupi!</p>
 		<ul class="actions">
 			<li><a href="landing.html" class="button next">Contattami</a></li>
 		</ul>

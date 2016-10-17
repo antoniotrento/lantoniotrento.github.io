@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>FAI APPREZZARE E CONOSCERE IL TUO BUSINESS</h1>
+			<h1>Fai apprezzare e conoscere il tuo business</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
@@ -93,7 +93,7 @@ nav-menu: yes
 		<header class="major">
 			<h2>Esempi</h2>
 		</header>
-		<p>Alcuni esempi che possono essere applicati al tuo business o a tutto ciò che vorresti comunicare su web.</p>
+		<p>Alcuni esempi che possono essere applicati al tuo business o a tutto ciò che vorresti comunicare su web. Ogni prodotto creato da me utilizza le ultime tecnologie disponibili su mercato per sviluppare un prodotto di leggerezza e qualità di gran lunga superiore alla media di mercato.</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Avanti</a></li>
 		</ul>

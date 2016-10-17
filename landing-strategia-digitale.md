@@ -80,9 +80,25 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>E-mail marketing per farti amare</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Posso implementare per te gli strumenti migliori per sviluppare una strategia di nutrimento utenti e brand authority via email atta a farti percepire dal tuo pubblico come leader della tua nicchia di mercato; avvalendomi dei migliori professionisti di settore potremo creare insieme anche la strategia di contenuti che calza a pennello del tuo business.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Ingenieria sociale per una comunicazione duratura</h3>
+				</header>
+				<p>Duratura, efficace, amichevole tutte qualità che acquisiranno i tuoi clienti acquisiti con tecniche di social engieer tramite uno studio preciso in base al mercato di riferimento e la buyer persona ideale..</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

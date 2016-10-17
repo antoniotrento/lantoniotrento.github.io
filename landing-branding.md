@@ -96,13 +96,77 @@ nav-menu: yes
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>La tua Brand Autority</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Ecco che strumenti utilizzer&egrave; e come potr&egrave; aiutare la tua immagine aziendale ad acquistare autorità, fiducia e renderla pronta in ogni suo
+		dettaglio a decollare e rimanere ben impressa nella mente del tuo cliente tipo.</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
+</section>
+
+<section id="tiles" class="tiles">
+        <article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="#" class="link">I migliori designer</a></h3>
+                        <p>Progetti analizzati e commissionati hai migliori designer per branding su web in circolazione.</p>
+                </header>
+        </article>
+
+        <article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="#" class="link">Strumenti da PRO</a></h3>
+                        <p>Tutti gli strumenti che utilizziamo sono professionali per un risultato finale di eccellenza e dettaglio.</p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="#" class="link">Sviluppo completo</a></h3>
+                        <p>Forniamo uno sviluppo completo da immagine a web design per la tua attività da libero professionista o piccola azienda.</p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://willjekyll.github.io" class="link">Will Theme</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://jekycorps.github.io/" class="link">Corporate Theme</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic06.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://antoniotrento.github.io" class="link">Carte noir Theme</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
 </section>
 
 </div>

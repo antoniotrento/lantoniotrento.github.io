@@ -12,7 +12,7 @@ email: lantoniotrento@gmail.com
 description: Il mio lavoro ti consente la creazione di esperienze che coinvolgono gli utenti, progettando lo stile e il modo di farsi conoscere del tuo business su web.
 baseurl: "/lantoniotrento.github.io" # the subpath of your site, e.g. /blog
 url: "https://lantoniotrento.github.io" # the base hostname & protocol for your site
-author: 
+author: Antonio Trento
 street_address: Prealpi 20
 city: Varese
 state: VA
@@ -28,19 +28,19 @@ gems:
   - jemoji
 
 # Homepage tiles
-tiles-source: posts # accepts "posts" or "pages" 
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # Social settings
-500px_url: 
+500px_url:
 facebook_url: https://facebook.com/officialtrento
-github_url: 
-gitlab_url: 
+github_url:
+gitlab_url:
 googleplus_url: https://plus.google.com/u/0/+AntonioTrentodj
 instagram_url: https://instagram.com/officialtrento
 linkedin_url: https://it.linkedin.com/in/antoniotrento
 pinterest_url: https://pinterest.com/antoniotrento
-slack_url: 
+slack_url:
 twitter_url: https://twitter.com/lantoniotrento
 
 # Build settings
@@ -51,8 +51,8 @@ twitter:
   username: andrewbanchich
 # Add one or more of the following
 facebook:
-  app_id: 
-  publisher: 
-  admins: 
+  app_id:
+  publisher:
+  admins:
 logo:
-google_site_verification: 
+google_site_verification:

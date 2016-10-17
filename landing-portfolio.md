@@ -111,12 +111,12 @@ nav-menu: yes
 		</header>
 		<p>Hai bisogno di qualcosa di differenziante per colpire nel segno, in modo chiaro stiloso e dritto al punto, per non far perdere tempo a chi leggerà la tua presentazione.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Alcuni esempi</a></li>
+			<li><a href="#tiles" class="button next scrolly">Alcuni esempi</a></li>
 		</ul>
 	</div>
 </section>
 
-<section id="one" class="tiles">
+<section id="tiles" class="tiles">
         <article>
                 <span class="image">
                         <img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" />

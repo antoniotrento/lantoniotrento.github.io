@@ -98,7 +98,7 @@ nav-menu: yes
 				<header class="major">
 					<h3>Ingenieria sociale per una comunicazione duratura</h3>
 				</header>
-				<p>Duratura, efficace, amichevole tutte qualità che acquisiranno i tuoi clienti acquisiti con tecniche di social engieer tramite uno studio preciso in base al mercato di riferimento e la buyer persona ideale..</p>
+				<p>Fedelt&agrave;, supporto, collaborazione sono tutte qualità che acquisiranno i tuoi clienti acquisiti con tecniche di social engieer tramite uno studio preciso in base al mercato di riferimento e la buyer persona ideale.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

@@ -137,7 +137,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://jekyairspace.github.io/" class="link">Air Space Theme</a></h3>
+                        <h3><a href="https://willjekyll.github.io" class="link">Will Theme</a></h3>
                         <p></p>
                 </header>
         </article>

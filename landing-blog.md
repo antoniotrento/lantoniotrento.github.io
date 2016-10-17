@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Blog
-description: Lorem ipsum dolor sit amet nullam consequat<br />sed veroeros. tempus adipiscing nulla.
+description: Crea grazie ad Antonio blog di qualità superiore<br />per amplificare a dismisura la tua digital strategy.
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Landing</h1>
+			<h1>Racconta la storia del tuo business</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
@@ -29,9 +29,9 @@ nav-menu: yes
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Nutrimento per il tuo cliente</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Con l'avvento dell'era digitale è entrata in atto un evoluzione degli utenti che affollano la rete, i quali, hanno sempre più esigenza di informarsi su ciò che possa interessargli ed acquistare. Il blog in un business su web ben impostato è parte integrante della tua strategia digitale atta a nutrire e coinvolgere il tuo cliente tipo, farti ricordare e sollecitare meccanismi virtuosi come il passaparola sui social network.</p>
 	</div>
 </section>
 

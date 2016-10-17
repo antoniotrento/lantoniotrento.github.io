@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Web Design
-description: Fai apprezzare e conoscere il tuo business.
+description: Sviluppo per te Squeeze e Landing Pages.
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Sviluppo per te Squeeze e Landing Pages</h1>
+			<h1>FAI APPREZZARE E CONOSCERE IL TUO BUSINESS</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
@@ -64,7 +64,7 @@ nav-menu: yes
 				</header>
 				<p>Ogni nostro prodotto è sviluppato con un layout fluido che si adatta al tipo di display in cui è visualizzato, una delle principali caratteristiche che distingue un moderno website da uno obsoleto.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Dimmi di più</a></li>
 				</ul>
 			</div>
 		</div>
@@ -80,7 +80,7 @@ nav-menu: yes
 				</header>
 				<p>Utilizziamo e consigliamo i migliori strumenti sul mercato per il tuo web marketign e email marketing implementando nei nostri prodotti i migliori servizi offerti da web. Implementiamo e ci affidiamo a servizi e strutture sicure.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Dimmi di più</a></li>
 				</ul>
 			</div>
 		</div>
@@ -91,11 +91,11 @@ nav-menu: yes
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Esempi</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Alcuni esempi che possono essere applicati al tuo business o a tutto ciò che vorresti comunicare su web.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">Avanti</a></li>
 		</ul>
 	</div>
 </section>

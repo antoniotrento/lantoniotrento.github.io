@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Portfolio
-description: Dimostra che tu sei il meglio di tutti i tuoi competitor in cerca di visibilità professionale.
+description: Dimostra che tu sei il meglio di tutti i tuoi competitor<br />in cerca di visibilità professionale.
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---

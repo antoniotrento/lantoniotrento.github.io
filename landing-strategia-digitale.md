@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Digital Strategy
-description: Lorem ipsum dolor sit amet nullam consequat<br />sed veroeros. tempus adipiscing nulla.
+description: Puoi avvalerti delle mie conoscenze per pianificare una strategia digitale atta a generare conversioni e obiettivi di business.
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Landing</h1>
+			<h1>Web Marketing fatto con cura</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
@@ -29,9 +29,9 @@ nav-menu: yes
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Cosa posso fare per te?</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Una Landing-Page, squeeze page o una serie consulenze atte ad attuare la giusta strategia di marketing in base al tuo mercato potrebbero portare molti vantaggi per il tuo business.</p>
 	</div>
 </section>
 
@@ -44,11 +44,11 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>La giusta strategia al momento giusto</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Qui su Trendo non lascio nulla al caso, grazie a strumenti di marketing ricercati in anni di studi, sono in grado di trovare la giusta audience per il tuo business nel canale network giusto, con il giusto tempismo.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Scopri di pi&ugrave;</a></li>
 				</ul>
 			</div>
 		</div>
@@ -60,9 +60,13 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Web marketing curato a puntino</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Ci occupiamo dalle tue landing page pubblicitarie, il tuo blog, le tue squeeze page per catturare le email di nuovi clienti e sen ne hai bisogno di un portfolio professionale.
+
+ 				Utilizzando strumenti di analisi accurati per il mercato e la concorrenza, abbiamo sempre ben chiara la strada da seguire per distinguersi positivamente in un mercato grigio.
+
+				Se vuoi qualche consiglio di sviluppo perchè non puoi permetterti una consulenza, prova a passare per il blog.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

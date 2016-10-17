@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Portfolio
-description: Lorem ipsum dolor sit amet nullam consequat<br />sed veroeros. tempus adipiscing nulla.
+description: Dimostra che tu sei il meglio di tutti i tuoi competitor in cerca di visibilità professionale.
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Landing</h1>
+			<h1>Portfolio e Web curriculum</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>

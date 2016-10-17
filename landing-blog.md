@@ -62,7 +62,7 @@ nav-menu: yes
 				<header class="major">
 					<h3>Aumenta le visite al tuo sito</h3>
 				</header>
-				<p>Implementando un blog con la giusta strategia di contenuti, aumenterai le possibilit che i lettori si interessino al tuo prodotto o servizio e al contempo aumenterai l'autorità del tuo sito agli occhi dei motori di ricerca come Google.</p>
+				<p>Implementando un blog con la giusta strategia di contenuti, aumenterai le possibilit&agrave; che i lettori si interessino al tuo prodotto o servizio e al contempo aumenterai l'autorità del tuo sito agli occhi dei motori di ricerca come Google.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

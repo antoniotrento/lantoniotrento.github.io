@@ -9,7 +9,7 @@
 title-bold: Antonio
 title-normal: Trento
 email: lantoniotrento@gmail.com
-description: Il mio lavoro ti consente la creazione di esperienze che coinvolgono gli utenti, progettando lo stile e il modo di farsi conoscere del tuo business su web.
+description: Il mio lavoro ti consente la creazione di esperienze che coinvolgono gli utenti,<br />progettando lo stile e il modo di farsi conoscere del tuo business su web.
 baseurl: "/lantoniotrento.github.io" # the subpath of your site, e.g. /blog
 url: "https://lantoniotrento.github.io" # the base hostname & protocol for your site
 author: Antonio Trento
@@ -48,7 +48,7 @@ markdown: kramdown
 
 # Plugin: jekyll-seo-tag
 twitter:
-  username: andrewbanchich
+  username: lantoniotrento
 # Add one or more of the following
 facebook:
   app_id:

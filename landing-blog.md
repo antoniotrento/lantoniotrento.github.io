@@ -91,9 +91,9 @@ nav-menu: yes
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Vinci sul lungo periodo</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Il blog è una strategia di marketing digitale che da i suoi frutti sul lungo periodo. Potr&agrave; sembrarti poco conveniente crearlo, tuttavia il coltivare uno strumento di questo tipo potrà portare ad un incremento sostanziale della visite al tuo sito web e conseguentemente un aumento di autorit&agrave; agli occhi dei tuoi lettori e quindi maggiori possibilit&agrave; di vendita e collaborazioni.</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>

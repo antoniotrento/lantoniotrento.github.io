@@ -9,7 +9,7 @@
 title-bold: Antonio
 title-normal: Trento
 email: lantoniotrento@gmail.com
-description: Il mio lavoro ti consente la creazione di esperienze che coinvolgono gli utenti,<br />progettando lo stile e il modo di farsi conoscere del tuo business su web.
+description: Il mio lavoro ti consente la creazione di esperienze che coinvolgono gli utenti,<br />progettando lo stile e il modo di far conoscere il tuo business su web.
 baseurl: "/lantoniotrento.github.io" # the subpath of your site, e.g. /blog
 url: "https://lantoniotrento.github.io" # the base hostname & protocol for your site
 author: Antonio Trento
@@ -18,7 +18,7 @@ city: Varese
 state: VA
 zip_code: 21100
 country: Italia
-# phone: (716) 555-5555
+phone: (+39) 340-9658993
 
 # Plugins
 gems:

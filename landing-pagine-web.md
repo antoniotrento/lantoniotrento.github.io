@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Web Design
-description: Lorem ipsum dolor sit amet nullam consequat<br />sed veroeros. tempus adipiscing nulla.
+description: Fai apprezzare e conoscere il tuo business.
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Landing</h1>
+			<h1>Sviluppo per te Squeeze e Landing Pages</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
@@ -29,9 +29,9 @@ nav-menu: yes
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>LANDING PER TUTTI I GUSTI</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Creiamo pagine web professionali per promuovere il tuo business, te stesso, i tuoi prodotti oppure catturare contatti di business o lavoro.</p>
 	</div>
 </section>
 
@@ -44,11 +44,11 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Create con cura</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Tutte i nostri progetti sono sviluppati con i migliori strumenti disponibili sul mercato, i quali garantiscono un prodotto corretto, robusto, versatile e durevole nel tempo.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Dimmi di più</a></li>
 				</ul>
 			</div>
 		</div>
@@ -60,9 +60,9 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Responsive Design</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Ogni nostro prodotto è sviluppato con un layout fluido che si adatta al tipo di display in cui è visualizzato, una delle principali caratteristiche che distingue un moderno website da uno obsoleto.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -76,9 +76,9 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Contatti e sicurezza</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Utilizziamo e consigliamo i migliori strumenti sul mercato per il tuo web marketign e email marketing implementando nei nostri prodotti i migliori servizi offerti da web. Implementiamo e ci affidiamo a servizi e strutture sicure.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -128,7 +128,7 @@ nav-menu: yes
 	{% endif %}
 	{% endfor %}
 
-	
+
 </section>
 
 

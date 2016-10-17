@@ -78,7 +78,7 @@ nav-menu: yes
 				<header class="major">
 					<h3>Migliora l'immagine aziendale</h3>
 				</header>
-				<p>Se deciderai di creare un blog per te o la tua azienda avrai la possibiltà, se ben curato, di entrare in contatto in modo confidenziale con i tuoi lettori e se hai creato contenuti eccezzionali, far ricordare di te e del tuo marchio.</p>
+				<p>Se deciderai di creare un blog per te o la tua azienda avrai la possibilt&agrave;, se ben curato, di entrare in contatto in modo confidenziale con i tuoi lettori e se hai creato contenuti eccezzionali, far ricordare di te e del tuo marchio.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

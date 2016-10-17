@@ -141,6 +141,26 @@ nav-menu: yes
                 </header>
         </article>
 
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://jekyllagency.github.io/" class="link">Agency layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic06.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://twentyjeky.github.io" class="link">Twenty layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
 </section>
 
 

@@ -31,7 +31,7 @@ nav-menu: yes
 		<header class="major">
 			<h2>Nutrimento per il tuo cliente</h2>
 		</header>
-		<p>Con l'avvento dell'era digitale è entrata in atto un evoluzione degli utenti che affollano la rete, i quali, hanno sempre più esigenza di informarsi su ciò che possa interessargli ed acquistare. Il blog in un business su web ben impostato è parte integrante della tua strategia digitale atta a nutrire e coinvolgere il tuo cliente tipo, farti ricordare e sollecitare meccanismi virtuosi come il passaparola sui social network.</p>
+		<p>Con l'avvento dell'era digitale è entrata in atto un evoluzione degli utenti che affollano la rete, i quali, hanno sempre più esigenza di informarsi su ciò che possa interessargli ed acquistare. Il blog in un business su web ben impostato è parte integrante della tua strategia digitale atta a nutrire e coinvolgere il tuo cliente tipo, farti ricordare e sollecitare meccanismi virtuosi come il passaparola sui social network e l'iscrizione alla tua lista contatti.</p>
 	</div>
 </section>
 

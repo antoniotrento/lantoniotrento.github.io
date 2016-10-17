@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title-bold: Antonio
-title-normal: Trento
+title-bold: tre
+title-normal: ndo
 email: lantoniotrento@gmail.com
 description: Il mio lavoro ti consente la creazione di esperienze che coinvolgono gli utenti,<br />progettando lo stile e il modo di far conoscere il tuo business su web.
 baseurl: "/lantoniotrento.github.io" # the subpath of your site, e.g. /blog

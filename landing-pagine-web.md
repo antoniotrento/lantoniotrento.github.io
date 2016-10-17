@@ -103,7 +103,7 @@ nav-menu: yes
 <section id="one" class="tiles">
         <article>
                 <span class="image">
-                        <img src="{{ post.image }}" alt="" />
+                        <img src="{{ page.image }}/assets/images/pic01.jpg" alt="" />
                 </span>
                 <header class="major">
                         <h3><a href="https://spectraljeky.github.io" class="link">Spectral layout</a></h3>
@@ -113,7 +113,7 @@ nav-menu: yes
 
         <article>
                 <span class="image">
-                        <img src="{{ page.image }}" alt="" />
+                        <img src="{{ page.image }}/assets/images/pic02.jpg" alt="" />
                 </span>
                 <header class="major">
                         <h3><a href="https://fortlyjeky.github.io/" class="link">Fortly layout</a></h3>
@@ -123,7 +123,7 @@ nav-menu: yes
 
 				<article>
                 <span class="image">
-                        <img src="{{ page.image }}" alt="" />
+                        <img src="{{ page.image }}/assets/images/pic03.jpg" alt="" />
                 </span>
                 <header class="major">
                         <h3><a href="https://landjeky.github.io/" class="link">Land layout</a></h3>
@@ -133,7 +133,7 @@ nav-menu: yes
 
 				<article>
                 <span class="image">
-                        <img src="{{ page.image }}" alt="" />
+                        <img src="{{ page.image }}/assets/images/pic04.jpg" alt="" />
                 </span>
                 <header class="major">
                         <h3><a href="https://artblog.github.io/" class="link">Art layout</a></h3>

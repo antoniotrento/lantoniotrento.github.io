@@ -95,13 +95,13 @@ nav-menu: yes
 		</header>
 		<p>Il blog è una strategia di marketing digitale che da i suoi frutti sul lungo periodo. Potr&agrave; sembrarti poco conveniente crearlo, tuttavia il coltivare uno strumento di questo tipo potrà portare ad un incremento sostanziale della visite al tuo sito web e conseguentemente un aumento di autorit&agrave; agli occhi dei tuoi lettori e quindi maggiori possibilit&agrave; di vendita e collaborazioni.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="#tiles" class="button next scrolly">Alcuni Esempi</a></li>
 		</ul>
 	</div>
 </section>
 
 
-<section id="one" class="tiles">
+<section id="tiles" class="tiles">
         <article>
                 <span class="image">
                         <img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" />

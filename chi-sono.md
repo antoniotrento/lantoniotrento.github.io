@@ -54,7 +54,7 @@ nav-menu: yes
                 </span>
                 <header class="major">
                         <h3><a href="https://jekyllresume.github.io/" class="link">Antonio su Behance</a></h3>
-                        <p>La parte creativa che c&quote;&egrave; in me.</p>
+                        <p>La parte creativa che c'&egrave; in me.</p>
                 </header>
         </article>
 

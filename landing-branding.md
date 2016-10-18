@@ -29,9 +29,9 @@ nav-menu: yes
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Far ricordare nel momento in cui si ha bisogno di te</h2>
+			<h2>Far ricordare...</h2>
 		</header>
-		<p>In questa frase è racchiuso il successo di molte aziendee credo sia il meccanismo giusto da tentare di innescare nella mente dei clienti della tua impresa..</p>
+		<p>Far ricordare nel momento in cui si ha bisogno di te. In questa frase è racchiuso il successo di molte aziendee credo sia il meccanismo giusto da tentare di innescare nella mente dei clienti della tua impresa..</p>
 	</div>
 </section>
 

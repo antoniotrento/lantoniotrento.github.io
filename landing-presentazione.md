@@ -91,7 +91,7 @@ nav-menu: yes
 				<header class="major">
 					<h3>Approfondimento e appunti</h3>
 				</header>
-				<p>Potrai sfruttare le funzionalità avanzate della presentazione per gestirla da interfaccia doppio schermo ed avere appunti celati al pubblico, timer e controller slide.</p>
+				<p>Potrai sfruttare le funzionalità avanzate della presentazione per gestirla da interfaccia doppio schermo ed avere appunti celati al pubblico, timer e controller slide e utlizzare le slide annidate per eventualmente approfondire un argomento sensibile. Inoltre con la pressione di un tasto potrai: mettere in pausa, mostrare una panoramica e sfruttare lo schermo intero della tua presentazione.</p>
 			</div>
 		</div>
 	</section>

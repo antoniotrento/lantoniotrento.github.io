@@ -39,7 +39,7 @@ nav-menu:
 		<ul class="actions">
 			<li><a href="contatti.html" class="button next">Contattami</a></li>
 			<li><a href="chi-sono.html" class="button special icon fa-hand-peace-o">su di me</a></li>
-			<li><a href="https://rebrand.ly/trendoblog" class="button icon fa-hand-peace-o">Blog</a></li>
+			<li><a href="https://rebrand.ly/trendoblog" class="button icon newspaper-o">Blog</a></li>
 		</ul>
 	</div>
 </section>

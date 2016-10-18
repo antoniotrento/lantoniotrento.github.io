@@ -25,14 +25,7 @@ nav-menu: yes
 <!-- Main -->
 <div id="main">
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Tool per la tua professionalit&agrave;</h2>
-		</header>
-		<p>Mi avvalgo </p>
-	</div>
-</section>
+
 
 <section id="tiles" class="tiles">
         <article>

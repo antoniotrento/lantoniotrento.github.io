@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Chi Sono</h1>
+			<h1>Antonio Trento</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>

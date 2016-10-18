@@ -116,7 +116,7 @@ nav-menu: yes
 				</ul>
 			</div>
 		</div>
-	</section> -->
+	</section> 	
 </section>
 
 
@@ -193,7 +193,7 @@ nav-menu: yes
                 </header>
         </article>
 
-</section>
+</section> -->
 
 
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Chi Sono
-description: Ciao! Sono Antonio Trento e sono appassionato di web marketing da molti anni. Nel mio tempo libero mi piace surfare su web, sulla neve in moto.
+description: Ciao! Sono Antonio Trento e sono appassionato di web marketing da molti anni. Nel mio tempo libero mi piace surfare su web, sulla neve e in moto.
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
@@ -73,8 +73,8 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://docsjeky.github.io" class="link">Documentazioni e manuali</a></h3>
-                        <p></p>
+                        <h3><a href="http://steamcommunity.com/id/flowkdj" class="link">Steam</a></h3>
+                        <p>Se vuoi tracciare il mio profilo videoludico</p>
                 </header>
         </article>
 

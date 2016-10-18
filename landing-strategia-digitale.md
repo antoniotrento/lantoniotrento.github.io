@@ -38,7 +38,7 @@ nav-menu: yes
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#three" class="scrolly image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -48,13 +48,13 @@ nav-menu: yes
 				</header>
 				<p>Qui su Trendo non lascio nulla al caso, grazie a strumenti di marketing ricercati in anni di studi, sono in grado di trovare la giusta audience per il tuo business nel canale network giusto, con il giusto tempismo.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Scopri di pi&ugrave;</a></li>
+					<li><a href="#three" class="button scrolly">Scopri di pi&ugrave;</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#three" class="scrolly image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -68,13 +68,13 @@ nav-menu: yes
 
 				Se vuoi qualche consiglio di sviluppo perchè non puoi permetterti una consulenza, prova a passare per il blog.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#three class="button scrolly">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#three" class="scrolly image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -90,7 +90,7 @@ nav-menu: yes
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#three" class="scrolly image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">

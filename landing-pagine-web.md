@@ -38,7 +38,7 @@ nav-menu: yes
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#tiles" class="scrolly image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -54,7 +54,7 @@ nav-menu: yes
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#three" class="image scrolly">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -64,13 +64,13 @@ nav-menu: yes
 				</header>
 				<p>Ogni nostro prodotto è sviluppato con un layout fluido che si adatta al tipo di display in cui è visualizzato, una delle principali caratteristiche che distingue un moderno website da uno obsoleto.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Dimmi di più</a></li>
+					<li><a href="#three" class="button scrolly">Dimmi di più</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#three" class="scrolly image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -80,7 +80,7 @@ nav-menu: yes
 				</header>
 				<p>Utilizziamo e consigliamo i migliori strumenti sul mercato per il tuo web marketign e email marketing implementando nei nostri prodotti i migliori servizi offerti da web. Implementiamo e ci affidiamo a servizi e strutture sicure.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Dimmi di più</a></li>
+					<li><a href="#three" class="button scrolly">Dimmi di più</a></li>
 				</ul>
 			</div>
 		</div>

@@ -38,7 +38,7 @@ nav-menu: yes
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#tiles" class="scrolly image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -54,7 +54,7 @@ nav-menu: yes
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#tiles" class="scrolly image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -64,13 +64,13 @@ nav-menu: yes
 				</header>
 				<p>Se sei uno studente o un disoccupato in cerca di occupazione, senza budget? ho preparato per te sul blog guide complete per creare da zero la tua immagine professionale con strumenti per lo sviluppo semplici, molto economici e che ti diano un vantaggio tecnico e competitivo rispetto tutti gli altri.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">In via di sviluppo</a></li>
+					<li><a href="#tiles" class="button scrolly">Esempi</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#tiles" class="scrolly image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -80,13 +80,13 @@ nav-menu: yes
 				</header>
 				<p>Posso creare per te presentazioni professionali che utilizzano le ultime tecnologie per riuscire a conubiare online ed offline, avendo sempre con te, a disposizione i tuoi strumenti di business e presentazione utilizzabili su qualsiasi dispositivo sulla terra.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#tiles" class="button scrolly">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#tiles" class="scrolly image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -96,7 +96,7 @@ nav-menu: yes
 				</header>
 				<p>Se hai bisogno di creare una documentazione/manuale online per un tuo nuovo progetto, prototipo, una ricerca scientifica o qualsiasi altra cosa abbia bisogno di una documentazione su web robusta e scattante, con una buona esperienza utente sia da desktop che mobile.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#tiles" class="button scrolly">Esempi</a></li>
 				</ul>
 			</div>
 		</div>

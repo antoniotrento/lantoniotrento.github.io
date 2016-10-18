@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Chi Sono
-description: Qualcosa in più su Antonio Trento.
+description: Ciao! Sono Antonio Trento e sono appassionato di web marketing da molti anni. Nel mio tempo libero mi piace surfare su web, sulla neve in moto.
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
@@ -33,8 +33,8 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://jekyllagency.github.io" class="link">Portfolio agency layout</a></h3>
-                        <p></p>
+                        <h3><a href="https://it.linkedin.com/in/antoniotrento" class="link">LinkedIn</a></h3>
+                        <p>Scopri il mio background e tutte le mie esperienze lavorative</p>
                 </header>
         </article>
 
@@ -43,8 +43,8 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://startboostrap.github.io" class="link">Portfolio Start layout</a></h3>
-                        <p></p>
+                        <h3><a href="https://startboostrap.github.io" class="link">Il Blog di Trendo</a></h3>
+                        <p>Sono l'autore e creatore di Trendo dove potrai imparare ad utilizzare gli strumenti che utilizzo per sviluppare i miei prodotti web</p>
                 </header>
         </article>
 
@@ -63,8 +63,8 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://jekyllriculum.github.io/" class="link">Curriculum Vitae layout</a></h3>
-                        <p></p>
+                        <h3><a href="https://jekyllriculum.github.io/" class="link">Web Curriculum</a></h3>
+                        <p>Se per caso non ti senti a tuo agio su linkedIn e preferisci una versione più chiara del mio CV</p>
                 </header>
         </article>
 

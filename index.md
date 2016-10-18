@@ -47,7 +47,8 @@ nav-menu:
 			<div class="6u$ 12u$(medium)"><ul class="actions">
 			<li><a href="https://facebook.com/" class="button small special icon fa-facebook">Facebook</a></li>
 			<li><a href="https://twitter.com/" class="button small special icon fa-twitter">Twitter</a></li>
-			<li><a href="https://linkedin.com/" class="button small special icon fa-linkedin">LinkedIn</a></li>
+			<li><a href="https://linkedin.com/" class="button small special icon fa-linkedin">LinkedIn</a></li></ul>
+			<ul class="actions">
 			<li><a href="https://pinterest.com/" class="button small special icon fa-pinterest">Pinterest</a></li>
 			<li><a href="https://facebook.com/" class="button small special icon fa-google-plus">Google+</a></li>
 			</ul></div>

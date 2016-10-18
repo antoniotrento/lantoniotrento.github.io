@@ -43,7 +43,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://startboostrap.github.io" class="link">Il Blog di Trendo</a></h3>
+                        <h3><a href="https://startboostrap.github.io" class="link">Trendo</a></h3>
                         <p>Sono l'autore e creatore di Trendo dove potrai imparare ad utilizzare gli strumenti che sfrutto per sviluppare i miei prodotti web</p>
                 </header>
         </article>

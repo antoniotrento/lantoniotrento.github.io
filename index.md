@@ -42,11 +42,11 @@ nav-menu:
 			<li><a href="contatti.html" class="button next">Contattami</a></li>
 			<li><a href="chi-sono.html" class="button special icon fa-hand-peace-o">su di me</a></li>
 			<li><a href="https://rebrand.ly/trendoblog" class="button icon fa-newspaper-o">Blog</a></li>
-			<li><a href="https://facebook.com/" class="button special icon fa-facebook"></a></li>
-			<li><a href="https://twitter.com/" class="button special icon fa-twitter"></a></li>
-			<li><a href="https://linkedin.com/" class="button special icon fa-linkedin"></a></li>
-			<li><a href="https://pinterest.com/" class="button special icon fa-pinterest"></a></li>
-			<li><a href="https://facebook.com/" class="button special icon fa-google-plus"></a></li>
+			<li><a href="https://facebook.com/" class="button special icon fa-facebook"></a>Facebook</li>
+			<li><a href="https://twitter.com/" class="button special icon fa-twitter"></a>Twitter</li>
+			<li><a href="https://linkedin.com/" class="button special icon fa-linkedin"></a>LinkedIn</li>
+			<li><a href="https://pinterest.com/" class="button special icon fa-pinterest"></a>Pinterest</li>
+			<li><a href="https://facebook.com/" class="button special icon fa-google-plus"></a>Google +</li>
 		</ul>
 	</div>
 </section>

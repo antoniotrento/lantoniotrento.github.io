@@ -63,7 +63,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://jekyllresume.github.io/" class="link">Web Curriculum</a></h3>
+                        <h3><a href="https://antcv.github.io/" class="link">Web Curriculum</a></h3>
                         <p>Se per caso non ti senti a tuo agio su linkedIn e preferisci una versione più chiara del mio CV</p>
                 </header>
         </article>

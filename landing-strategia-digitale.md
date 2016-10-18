@@ -96,9 +96,9 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Ingenieria sociale per una comunicazione duratura</h3>
+					<h3>Ingenieria sociale</h3>
 				</header>
-				<p>Fedelt&agrave;, supporto, collaborazione sono tutte qualità che acquisiranno i tuoi clienti acquisiti con tecniche di social engieer tramite uno studio preciso in base al mercato di riferimento e la buyer persona ideale.</p>
+				<p>Ingenieria sociale per una comunicazione duratura. Fedelt&agrave;, supporto, collaborazione sono tutte qualità che acquisiranno i tuoi clienti acquisiti con tecniche di social engieer tramite uno studio preciso in base al mercato di riferimento e la buyer persona ideale.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -111,10 +111,9 @@ nav-menu: yes
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Strategie vincenti
-Richiedono menti vincenti.</h2>
+			<h2>Strategie vincenti</h2>
 		</header>
-		<p>Affidando a me la cura della tua strategia social e di web marketing avrai a disposizione anni di studi, esperienze e sperimentazioni con tutti gli strumenti disponibili sul mercato.</p>
+		<p>Strategie vincenti, richiedono menti vincenti. Affidando a me la cura della tua strategia social e di web marketing avrai a disposizione anni di studi, esperienze e sperimentazioni con tutti gli strumenti disponibili sul mercato.</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>

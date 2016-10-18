@@ -53,7 +53,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://jekyllresume.github.io/" class="link">Antonio su Behance</a></h3>
+                        <h3><a href="https://behance.com/antoniotrento/" class="link">Antonio su Behance</a></h3>
                         <p>La parte creativa che c'&egrave; in me.</p>
                 </header>
         </article>
@@ -63,7 +63,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://jekyllriculum.github.io/" class="link">Web Curriculum</a></h3>
+                        <h3><a href="https://jekyllresume.github.io/" class="link">Web Curriculum</a></h3>
                         <p>Se per caso non ti senti a tuo agio su linkedIn e preferisci una versione più chiara del mio CV</p>
                 </header>
         </article>

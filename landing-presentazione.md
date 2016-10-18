@@ -31,22 +31,22 @@ nav-menu: yes
 		<header class="major">
 			<h2>Tool per la tua professionalit&agrave;</h2>
 		</header>
-		<p>Mi avvalgo di strumenti unici, leggeri e minimalisti che possano mettere in evideza tutti i punti salienti del tuo profilo professionale e personale, esaltando le qualità necessarie per raggiungere gli obiettivi che la tua professione o campo di studi comporta!</p>
+		<p>Grazie al mio servizio di svilppo, le tue presentazioni, con le quali presenti ai tuoi clienti o partner le tue idee di business, saranno più versatili e comode che mai! Sia da usare con un proiettore, da pc e mobile, grazie all'integrazione "Hosting su web"</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#tiles" class="scrolly image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Per Imprenditori e Freelance</h3>
+					<h3>Velocit&agrave; di esecuzione</h3>
 				</header>
-				<p>Se sei un imprenditore e non hai tempo da perdere, posso realizzare per te le creatività necessarie per imporre la tua immagine su web, tramite un portfolio, pagine di presentazione della tua attività e, all’occorrenza una strategia di marketing adeguata alle tue esigenze e budget.</p>
+				<p>Non farti cogliere impreparato da rallentamenti o strani crash in cui incappano la maggior parte dei servizi. Io fornisco un servizio di classe A sia in velocità di esecuzione che di uptime!</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -54,23 +54,20 @@ nav-menu: yes
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#tiles" class="scrolly image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Per Studenti e disoccupati</h3>
+					<h3>Presentazioni per distinguersi</h3>
 				</header>
-				<p>Se sei uno studente o un disoccupato in cerca di occupazione, senza budget? ho preparato per te sul blog guide complete per creare da zero la tua immagine professionale con strumenti per lo sviluppo semplici, molto economici e che ti diano un vantaggio tecnico e competitivo rispetto tutti gli altri.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">In via di sviluppo</a></li>
-				</ul>
+				<p>Grazie all'integrazione di animazioni, video, immagini e gif, potrai creare un esperienza utente molto coinvolgente che ti reder&agrave; agli occhi del tuo pubblico un'autorit&agrave;.</p>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#tiles" class="scrolly image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -80,24 +77,21 @@ nav-menu: yes
 				</header>
 				<p>Posso creare per te presentazioni professionali che utilizzano le ultime tecnologie per riuscire a conubiare online ed offline, avendo sempre con te, a disposizione i tuoi strumenti di business e presentazione utilizzabili su qualsiasi dispositivo sulla terra.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#tiles" class="button scrolly">Esempi</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#tiles" class="scrolly image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Per ricerca e documentazione</h3>
+					<h3>Approfondimento e appunti</h3>
 				</header>
-				<p>Se hai bisogno di creare una documentazione/manuale online per un tuo nuovo progetto, prototipo, una ricerca scientifica o qualsiasi altra cosa abbia bisogno di una documentazione su web robusta e scattante, con una buona esperienza utente sia da desktop che mobile.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>Potrai sfruttare le funzionalità avanzate della presentazione per gestirla da interfaccia doppio schermo ed avere appunti celati al pubblico, timer e controller slide.</p>
 			</div>
 		</div>
 	</section>
@@ -109,7 +103,7 @@ nav-menu: yes
 		<header class="major">
 			<h2>Colpisci nel segno</h2>
 		</header>
-		<p>Hai bisogno di qualcosa di differenziante per colpire nel segno, in modo chiaro stiloso e dritto al punto, per non far perdere tempo a chi leggerà la tua presentazione.</p>
+		<p>Hai bisogno di qualcosa di differenziante, versatile, per colpire nel segno, in modo chiaro stiloso e dritto al punto, per non far perdere tempo a chi leggerà la tua presentazione.</p>
 		<ul class="actions">
 			<li><a href="#tiles" class="button next scrolly">Alcuni esempi</a></li>
 		</ul>

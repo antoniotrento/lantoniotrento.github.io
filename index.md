@@ -38,8 +38,8 @@ nav-menu:
 		<p>Avvalendomi degli strumenti più efficaci ed attuali sono ingrado di creare il tuo blog, portfolio, landing page pubblicitaria e di ideare e pianificare una strategia di promozione adatta ai servizi o prodotti di cui ti occupi!</p>
 		<p>Se ti va puoi metterti in contatto con me se, per metterti in lista e ricevere una consulenza gratuita, così avrai occasione di essere aggiunto al mio gruppo facebook segreto.</p>
 		<p>Sentiti libero di sbirciare sul blog con che strumenti produco i miei prodotti web e di darmi una mano a espandermi tramite i pulsanti di condivisione qui sotto, te ne sarò molto grato e ricambier&ograve; se diverrai mio cliente</p>
-		<ul style="padding-bottom:0.5 em" class="actions">
-			<li><a href="contatti.html" class="button next">Contattami</a></li>
+		<ul class="actions">
+			<li style="padding-bottom:0.5 em"><a href="contatti.html" class="button next">Contattami</a></li>
 			<li><a href="chi-sono.html" class="button special icon fa-hand-peace-o">su di me</a></li>
 			<li><a href="https://rebrand.ly/trendoblog" class="button icon fa-newspaper-o">Blog</a></li>
 			<li><a href="https://facebook.com/" class="button special icon fa-facebook">Facebook</a></li>

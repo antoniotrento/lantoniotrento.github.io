@@ -97,10 +97,19 @@ nav-menu: yes
 
 </section>
 
-
-
 <!-- Two -->
-<section id="two" class="spotlights">
+
+<section id="Two">
+	<div class="inner">
+		<header class="major">
+			<h2>Tool per la tua professionalit&agrave;</h2>
+		</header>
+		<p>Mi avvalgo </p>
+	</div>
+</section>
+
+<!-- Tree -->
+<section id="tree" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
@@ -171,7 +180,7 @@ nav-menu: yes
 </section>
 
 
-<section id="three">
+<section id="for">
 	<div class="inner">
 		<header class="major">
 			<h2>Colpisci nel segno</h2>

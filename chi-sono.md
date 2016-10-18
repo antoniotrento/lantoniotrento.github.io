@@ -34,6 +34,71 @@ nav-menu: yes
 	</div>
 </section>
 
+<section id="tiles" class="tiles">
+        <article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://jekyllagency.github.io" class="link">Portfolio agency layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+        <article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://startboostrap.github.io" class="link">Portfolio Start layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://jekyllresume.github.io/" class="link">Curriculum Resume layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://jekyllriculum.github.io/" class="link">Curriculum Vitae layout</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://docsjeky.github.io" class="link">Documentazioni e manuali</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+				<article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/assets/images/pic06.jpg" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="https://lndonio.github.io" class="link">Presentazioni per professionisti</a></h3>
+                        <p></p>
+                </header>
+        </article>
+
+</section>
+
+
+
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
@@ -117,69 +182,5 @@ nav-menu: yes
 		</ul>
 	</div>
 </section>
-
-<section id="tiles" class="tiles">
-        <article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://jekyllagency.github.io" class="link">Portfolio agency layout</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-        <article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://startboostrap.github.io" class="link">Portfolio Start layout</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-				<article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://jekyllresume.github.io/" class="link">Curriculum Resume layout</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-				<article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://jekyllriculum.github.io/" class="link">Curriculum Vitae layout</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-				<article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://docsjeky.github.io" class="link">Documentazioni e manuali</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-				<article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic06.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://lndonio.github.io" class="link">Presentazioni per professionisti</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-</section>
-
 
 </div>

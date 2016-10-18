@@ -20,7 +20,7 @@ nav-menu: yes
 			<p>{{ page.description }}</p>
 		</div>
 	</div>
-</section> 
+</section>
 
 <!-- Main -->
 <div id="main">

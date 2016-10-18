@@ -53,8 +53,8 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://jekyllresume.github.io/" class="link">Curriculum Resume layout</a></h3>
-                        <p></p>
+                        <h3><a href="https://jekyllresume.github.io/" class="link">Antonio su Behance</a></h3>
+                        <p>La parte creativa che c&quote;&egrave; in me.</p>
                 </header>
         </article>
 

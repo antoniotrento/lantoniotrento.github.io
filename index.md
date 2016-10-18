@@ -35,8 +35,8 @@ nav-menu:
 		<header class="major">
 			<h2>Crea la tua immagine su web!</h2>
 		</header>
-		<p>Avvalendomi degli strumenti più efficaci ed attuali sono ingrado di creare il tuo blog, portfolio, landing page pubblicitaria e di ideare e pianificare una strategia di promozione adatta ai servizi o prodotti di cui ti occupi!<br />
-		Se ti va puoi metterti in contatto con me se, per metterti in lista e ricevere una consulenza gratuita, così avrai occasione di essere aggiunto al mio gruppo facebook segreto.<br />
+		<p>Avvalendomi degli strumenti più efficaci ed attuali sono ingrado di creare il tuo blog, portfolio, landing page pubblicitaria e di ideare e pianificare una strategia di promozione adatta ai servizi o prodotti di cui ti occupi!<br /><br />
+		Se ti va puoi metterti in contatto con me se, per metterti in lista e ricevere una consulenza gratuita, così avrai occasione di essere aggiunto al mio gruppo facebook segreto.<br /><br />
 		Sentiti libero di sbirciare sul blog con che strumenti produco i miei prodotti web!</p>
 		<ul class="actions">
 			<li><a href="contatti.html" class="button next">Contattami</a></li>

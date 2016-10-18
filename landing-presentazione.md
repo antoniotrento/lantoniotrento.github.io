@@ -31,7 +31,7 @@ nav-menu: yes
 		<header class="major">
 			<h2>Tool per la tua professionalit&agrave;</h2>
 		</header>
-		<p>Grazie al mio servizio di svilppo, le tue presentazioni, con le quali presenti ai tuoi clienti o partner le tue idee di business, saranno più versatili e comode che mai! Sia da usare con un proiettore, da pc e mobile, grazie all'integrazione "Hosting su web"</p>
+		<p>Grazie al mio servizio di svilppo, le tue presentazioni, con le quali presenti ai tuoi clienti o partner le tue idee di business, saranno più versatili e comode che mai! Sia da usare con un proiettore, da pc e mobile, grazie all'integrazione "Hosting su web".</p>
 	</div>
 </section>
 

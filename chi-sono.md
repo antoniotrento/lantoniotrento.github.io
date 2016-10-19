@@ -162,7 +162,7 @@ nav-menu: yes
 	</section>
 
 
-	<section>
+	<!-- <section>
 		<a href="#tiles" class="image scrolly">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
@@ -192,5 +192,5 @@ nav-menu: yes
 		</ul>
 	</div>
 </section>
-
+-->
 </div>

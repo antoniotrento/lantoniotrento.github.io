@@ -41,7 +41,7 @@ nav-menu:
 		<div class="row 200%">
 			<div class="6u 12u$(medium)">
 
-			<p>Sentiti libero di sbirciare sul blog con che strumenti produco i miei prodotti web e di darmi una mano a espandermi tramite i pulsanti di condivisione qui sotto, te ne sarò molto grato e ricambier&ograve; se diverrai mio cliente</p>
+			<p>Sentiti libero di sbirciare sul blog con che strumenti produco i miei prodotti web, contattarmi oppure sapere pi&ugrave; su di me. </p>
 
 			<ul class="actions">
 				<li><a href="contatti.html" class="button big next">Contattami</a></li></ul>
@@ -52,8 +52,8 @@ nav-menu:
 			</ul></div>
 
 			<div class="6u$ 12u$(medium)">
-
-			<p>Se ti va puoi metterti in contatto con me se, per metterti in lista e ricevere una consulenza gratuita, così avrai occasione di essere aggiunto al mio gruppo facebook segreto.</p>
+			<h3>Una mano per me ed una consulenza gratuita per te?</h3>
+			<p>Se vorrai potrai essere aggiunto in lista d'attesa e ricevere una consulenza gratuita, così avrai anche occasione di essere aggiunto al mio gruppo segreto su facebook. Il funzionamento &egrave; molto semplice, condividi con il pulsante sul social che utilizzi di pi&ugrave; e tassativamente su <a>LinkedIn</a> poi torna qui e premi sul bottone news, potremo darci una mano a vicenda con qualche condivisione, ed una consulenza gratuita sul tuo business, che ne dici? </p>
 
 			<ul class="actions">
 			<li><a href="https://facebook.com/" class="button small special icon fa-facebook">Facebook</a></li>

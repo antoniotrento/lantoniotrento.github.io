@@ -50,6 +50,7 @@ nav-menu:
 				<li><a href="chi-sono.html" class="button big special icon fa-hand-peace-o">su di me</a></li></ul>
 				<ul class="actions">
 				<li><a href="https://rebrand.ly/trendoblog" class="button big icon fa-newspaper-o">Blog</a></li>
+				<li><a href="https://rebrand.ly/emailist" class="button big icon fa-newspaper-o">Consulenza gratis</a></li>
 			</ul></div>
 
 			<div class="6u$ 12u$(medium)">

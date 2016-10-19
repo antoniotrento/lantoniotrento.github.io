@@ -143,7 +143,7 @@ nav-menu: yes
 			</div>
 		</div>
 	</section>
-
+<div class="content">
 	<!-- Four -->
 	<section id="four">
 		<div class="inner">
@@ -172,7 +172,7 @@ nav-menu: yes
 			</ul> -->
 		</div>
 	</section>
-
+</div>
 
 	<section>
 		<a href="#tiles" class="image scrolly">

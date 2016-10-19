@@ -114,7 +114,7 @@ nav-menu: yes
 				<p>Ho creato strategie di grow hacking per i miei account social ed alcuni blog:</p>
 				<ul>
 				<li>Grow Hack e automate <a  href="https://pinterest.com/antoniotrento" rel="nofollow">my Pinteres</a></li>
-				<li>Grow Hack <a href="https://weheart.com/antoniotrento" rel="nofollow">my Weheart it</a></li>
+				<li>Grow Hack <a href="https://weheartit.com/antoniotrento" rel="nofollow">my WeHeartIt</a></li>
 				<li>Grow Hack e automate <a href="https://twitter.com/officialtrento" rel="nofollow">my Twitter</a></li>
 				<li>Grow Hack <a href="https://vine.co/OfficialTrento" rel="nofollow">my Vine</a></li>
 				<li>Branding - Digital Strategy - Automation <a href="https://catsonweb.tumblr.com" rel="nofollow">CatsOnWeb</a></li>

@@ -45,14 +45,14 @@ nav-menu:
 			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p>
 
 			<ul class="actions">
-				<li><a href="contatti.html" class="button next">Contattami</a></li></ul>
+				<li><a href="contatti.html" class="button fit next">Contattami</a></li></ul>
 				<ul class="actions">
-				<li><a href="chi-sono.html" class="button special icon fa-hand-peace-o">su di me</a></li></ul>
+				<li><a href="chi-sono.html" class="button fit special icon fa-hand-peace-o">su di me</a></li></ul>
 				<ul class="actions">
-				<li><a href="https://rebrand.ly/trendoblog" class="button icon fa-newspaper-o">Blog</a></li>
+				<li><a href="https://rebrand.ly/trendoblog" class="button fit icon fa-newspaper-o">Blog</a></li>
 			</ul>
 			<ul class="actions">
-			<li><a href="https://rebrand.ly/emailist" class="button icon fa-newspaper-o">Consulenza Gratis</a></li>
+			<li><a href="https://rebrand.ly/emailist" class="button fit icon fa-newspaper-o">Consulenza Gratis</a></li>
 			</ul>
 			</div>
 

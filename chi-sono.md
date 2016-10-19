@@ -134,9 +134,9 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Per Studenti e disoccupati</h3>
+					<h3>Wordpress e Static Gens</h3>
 				</header>
-				<p>Se sei uco e competitivo rispetto tutti gli altri.</p>
+				<p>Sviluppo siti web in blog e Wordpress.</p>
 				<ul class="actions">
 					<li><a href="#tiles" class="button scrolly">Su</a></li>
 				</ul>

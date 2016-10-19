@@ -40,7 +40,9 @@ nav-menu:
 
 		<div class="row 200%">
 			<div class="6u 12u$(medium)">
-			<p>Se ti va puoi metterti in contatto con me se, per metterti in lista e ricevere una consulenza gratuita, così avrai occasione di essere aggiunto al mio gruppo facebook segreto.</p>
+
+			<p>Sentiti libero di sbirciare sul blog con che strumenti produco i miei prodotti web e di darmi una mano a espandermi tramite i pulsanti di condivisione qui sotto, te ne sarò molto grato e ricambier&ograve; se diverrai mio cliente</p>
+
 			<ul class="actions">
 				<li><a href="contatti.html" class="button next">Contattami</a></li></ul>
 				<ul class="actions">
@@ -50,7 +52,9 @@ nav-menu:
 			</ul></div>
 
 			<div class="6u$ 12u$(medium)">
-			<p>Sentiti libero di sbirciare sul blog con che strumenti produco i miei prodotti web e di darmi una mano a espandermi tramite i pulsanti di condivisione qui sotto, te ne sarò molto grato e ricambier&ograve; se diverrai mio cliente</p>
+
+			<p>Se ti va puoi metterti in contatto con me se, per metterti in lista e ricevere una consulenza gratuita, così avrai occasione di essere aggiunto al mio gruppo facebook segreto.</p>
+
 			<ul class="actions">
 			<li><a href="https://facebook.com/" class="button small special icon fa-facebook">Facebook</a></li>
 			<li><a href="https://twitter.com/" class="button small special icon fa-twitter">Twitter</a></li></ul>

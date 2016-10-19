@@ -224,3 +224,4 @@ nav-menu: yes
 		</ul> -->
 	</div>
 </section>
+</div>

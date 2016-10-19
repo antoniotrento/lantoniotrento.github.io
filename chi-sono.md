@@ -43,7 +43,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://blogantoniotrento.github.io" class="link">Trendo</a></h3>
+                        <h3><a href="https://blogantoniotrento.github.io" target="_blank" class="link">Trendo</a></h3>
                         <p>Sono l'autore e creatore di Trendo, il blog dove potrai imparare ad utilizzare gli strumenti che sfrutto per sviluppare i miei prodotti web</p>
                 </header>
         </article>
@@ -53,7 +53,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://behance.net/antoniotrento/" class="link">Antonio su Behance</a></h3>
+                        <h3><a href="https://behance.net/antoniotrento/" target="_blank" class="link">Antonio su Behance</a></h3>
                         <p>La parte creativa che c'&egrave; in me.</p>
                 </header>
         </article>
@@ -63,7 +63,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://antcv.github.io/" class="link">Web Curriculum</a></h3>
+                        <h3><a href="https://antcv.github.io/" target="_blank" class="link">Web Curriculum</a></h3>
                         <p>Se per caso non ti senti a tuo agio su linkedIn e preferisci una versione più chiara del mio CV</p>
                 </header>
         </article>
@@ -73,7 +73,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="http://steamcommunity.com/id/flowkdj" class="link">Steam</a></h3>
+                        <h3><a href="http://steamcommunity.com/id/flowkdj" target="_blank" class="link">Steam</a></h3>
                         <p>Se vuoi tracciare il mio profilo videoludico</p>
                 </header>
         </article>
@@ -83,8 +83,8 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic06.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://lndonio.github.io" class="link">Presentazioni per professionisti</a></h3>
-                        <p></p>
+                        <h3><a href="https://rebrand.ly/vine" target="_blank" class="link">Twitter e Vine</a></h3>
+                        <p>@Officialtrento su Twitter e Vine</p>
                 </header>
         </article>
 
@@ -104,7 +104,7 @@ nav-menu: yes
 <!-- Tree -->
 <section id="tree" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#tiles" class="image scrolly">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -114,13 +114,13 @@ nav-menu: yes
 				</header>
 				<p>Se sei udget.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#tiles" class="button scrolly">Scopri chi sono</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#tiles" class="image scrolly">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -130,14 +130,14 @@ nav-menu: yes
 				</header>
 				<p>Se sei uco e competitivo rispetto tutti gli altri.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">In via di sviluppo</a></li>
+					<li><a href="#tiles" class="button scrolly">Su</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#tiles" class="image scrolly">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -147,7 +147,7 @@ nav-menu: yes
 				</header>
 				<p>Posso creare per te presentazioni professionali che utilizzano le ultime tecnologie per riuscire a conubiare online ed offline, avendo sempre con te, a disposizione i tuoi strumenti di business e presentazione utilizzabili su qualsiasi dispositivo sulla terra.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#tiles" class="button scrolly">I miei profili</a></li>
 				</ul>
 			</div>
 		</div>
@@ -155,7 +155,7 @@ nav-menu: yes
 
 
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#tiles" class="image scrolly">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -165,7 +165,7 @@ nav-menu: yes
 				</header>
 				<p>Se hai bisogno di creare una documentazione/manuale online per un tuo nuovo progetto, prototipo, una ricerca scientifica o qualsiasi altra cosa abbia bisogno di una documentazione su web robusta e scattante, con una buona esperienza utente sia da desktop che mobile.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#tiles" class="button scrolly">Chi sono</a></li>
 				</ul>
 			</div>
 		</div>
@@ -180,7 +180,7 @@ nav-menu: yes
 		</header>
 		<p>Hai bisogno di qualcosa di differenziante per colpire nel segno, in modo chiaro stiloso e dritto al punto, per non far perdere tempo a chi leggerà la tua presentazione.</p>
 		<ul class="actions">
-			<li><a href="#tiles" class="button next scrolly">Alcuni esempi</a></li>
+			<li><a href="#tiles" class="button next scrolly">Torna su</a></li>
 		</ul>
 	</div>
 </section>

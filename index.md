@@ -47,9 +47,9 @@ nav-menu:
 			<ul class="actions">
 				<li><a href="contatti.html" class="button fit next">Contattami</a></li></ul>
 				<ul class="actions">
-				<li><a href="chi-sono.html" class="button fit special icon fa-hand-peace-o">su di me</a></li></ul>
+				<li><a href="chi-sono.html" class="button fit special icon fa-hand-peace-o">Pi&ugrave; su di me</a></li></ul>
 				<ul class="actions">
-				<li><a href="https://rebrand.ly/trendoblog" class="button fit icon fa-newspaper-o">Blog</a></li>
+				<li><a href="https://rebrand.ly/trendoblog" class="button fit icon fa-newspaper-o">Visita il Blog</a></li>
 			</ul>
 			<ul class="actions">
 			<li><a href="https://rebrand.ly/emailist" class="button fit icon fa-newspaper-o">Consulenza Gratis</a></li>

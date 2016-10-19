@@ -44,11 +44,11 @@ nav-menu:
 			<p>Sentiti libero di sbirciare sul blog con che strumenti produco i miei prodotti web e di darmi una mano a espandermi tramite i pulsanti di condivisione qui sotto, te ne sarò molto grato e ricambier&ograve; se diverrai mio cliente</p>
 
 			<ul class="actions">
-				<li><a href="contatti.html" class="button next">Contattami</a></li></ul>
+				<li><a href="contatti.html" class="button big next">Contattami</a></li></ul>
 				<ul class="actions">
-				<li><a href="chi-sono.html" class="button special icon fa-hand-peace-o">su di me</a></li></ul>
+				<li><a href="chi-sono.html" class="button big special icon fa-hand-peace-o">su di me</a></li></ul>
 				<ul class="actions">
-				<li><a href="https://rebrand.ly/trendoblog" class="button icon fa-newspaper-o">Blog</a></li>
+				<li><a href="https://rebrand.ly/trendoblog" class="button big icon fa-newspaper-o">Blog</a></li>
 			</ul></div>
 
 			<div class="6u$ 12u$(medium)">

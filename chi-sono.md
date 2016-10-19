@@ -193,5 +193,3 @@ nav-menu: yes
 	</div>
 </section>
 -->
-
-</div>

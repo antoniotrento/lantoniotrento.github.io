@@ -186,10 +186,10 @@ nav-menu: yes
 	</div>
 
 
-		<!-- CAROSELLO IMMAGINI ANTONIO FINE -->
+		<!-- CAROSELLO IMMAGINI ANTONIO FINE
 		<ul class="actions">
 			<li><a href="https://antblog.github.io" class="button special next">Temi</a></li>
-		</ul>
+		</ul> -->
 	</div>
 </section>
 

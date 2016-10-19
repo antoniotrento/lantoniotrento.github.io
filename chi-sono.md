@@ -33,7 +33,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://it.linkedin.com/in/antoniotrento" class="link">LinkedIn</a></h3>
+                        <h3><a href="https://it.linkedin.com/in/antoniotrento/?snip=false" class="link">LinkedIn</a></h3>
                         <p>Scopri il mio background e tutte le mie esperienze lavorative</p>
                 </header>
         </article>
@@ -43,7 +43,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://blogantoniotrento.github.io" target="_blank" class="link">Trendo</a></h3>
+                        <h3><a href="https://blogantoniotrento.github.io/?snip=false" class="link">Trendo</a></h3>
                         <p>Sono l'autore e creatore di Trendo, il blog dove potrai imparare ad utilizzare gli strumenti che sfrutto per sviluppare i miei prodotti web</p>
                 </header>
         </article>
@@ -53,7 +53,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://behance.net/antoniotrento/" target="_blank" class="link">Antonio su Behance</a></h3>
+                        <h3><a href="https://behance.net/antoniotrento/?snip=false" class="link">Antonio su Behance</a></h3>
                         <p>La parte creativa che c'&egrave; in me.</p>
                 </header>
         </article>
@@ -63,7 +63,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://antcv.github.io/" target="_blank" class="link">Web Curriculum</a></h3>
+                        <h3><a href="https://antcv.github.io/?snip=false" class="link">Web Curriculum</a></h3>
                         <p>Se per caso non ti senti a tuo agio su linkedIn e preferisci una versione più chiara del mio CV</p>
                 </header>
         </article>
@@ -73,7 +73,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="http://steamcommunity.com/id/flowkdj" target="_blank" class="link">Steam</a></h3>
+                        <h3><a href="http://steamcommunity.com/id/flowkdj/?snip=false" class="link">Steam</a></h3>
                         <p>Se vuoi tracciare il mio profilo videoludico</p>
                 </header>
         </article>
@@ -83,7 +83,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic06.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="https://rebrand.ly/vine" target="_blank" class="link">Twitter e Vine</a></h3>
+                        <h3><a href="https://rebrand.ly/vine/?snip=false" class="link">Twitter e Vine</a></h3>
                         <p>@Officialtrento su Twitter e Vine</p>
                 </header>
         </article>

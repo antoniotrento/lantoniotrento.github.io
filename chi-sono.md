@@ -158,7 +158,7 @@ nav-menu: yes
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section><div>
 </div>
 
 

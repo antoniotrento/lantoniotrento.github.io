@@ -141,7 +141,6 @@ nav-menu: yes
 					<li><a href="#tiles" class="button scrolly">Behance folio</a></li>
 				</ul>
 			</div>
-		</div>
 	</section>
 
 	<section>

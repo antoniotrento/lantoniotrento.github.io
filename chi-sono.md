@@ -110,11 +110,19 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Per Imprenditor</h3>
+					<h3>Imprese Grow Hacking</h3>
 				</header>
-				<p>Se sei udget.</p>
+				<p>Ho creato strategie di grow hacking per i miei account social ed alcuni blog:</p>
+				<ul>
+				<li>Grow Hack e automate <a  href="https://pinterest.com/antoniotrento" rel="nofollow">my Pinteres</a></li>
+				<li>Grow Hack <a href="https://weheart.com/antoniotrento" rel="nofollow">my Weheart it</a></li>
+				<li>Grow Hack e automate <a href="https://twitter.com/officialtrento" rel="nofollow">my Twitter</a></li>
+				<li>Grow Hack <a href="https://vine.co/u/1046117520320634880" rel="nofollow">my Vine</a></li>
+				<li>Branding - Digital Strategy - Automation <a href="https://catsonweb.tumblr.com" rel="nofollow">CatsOnWeb</a></li>
+				<li><a href="https://officialtrento.altervista.org" rel="nofollow">Antonio Music Demo</a></li>
+				</ul>
 				<ul class="actions">
-					<li><a href="#tiles" class="button scrolly">Scopri chi sono</a></li>
+					<li><a href="#tiles" class="button scrolly">Web Curriculum</a></li>
 				</ul>
 			</div>
 		</div>

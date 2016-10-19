@@ -171,7 +171,7 @@ nav-menu: yes
 			<h2>Temi e tools che utilizzo</h2>
 		</header>
 		<!-- CAROSELLO IMMAGINI ANTONIO -->
-
+	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
@@ -184,7 +184,7 @@ nav-menu: yes
 		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
 	</div>
- 
+
 
 		<!-- CAROSELLO IMMAGINI ANTONIO FINE -->
 		<ul class="actions">

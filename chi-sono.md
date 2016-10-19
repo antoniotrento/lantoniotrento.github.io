@@ -96,7 +96,7 @@ nav-menu: yes
 		<header class="major">
 			<h2>Tool per la tua professionalit&agrave;</h2>
 		</header>
-		<p>Mi avvalgo </p>
+		<p>Mi avvalgo dei migliori tools disponibili su web per sviluppare, implementare e ospitare prodotti web, oltre ad utilizzare gli strumenti pi&ugrave; in voga per implemetare le migliori strategie digitali. Sempre al passo con i tempi ed aggiornato in tecniche di grow hacking per sfruttare al massimo il traffico che la rete offre.</p>
 	</div>
 </section>
 

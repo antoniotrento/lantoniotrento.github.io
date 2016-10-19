@@ -93,7 +93,7 @@ nav-menu: yes
 		<header class="major">
 			<h2>Vinci sul lungo periodo</h2>
 		</header>
-		<p>Il blog è una strategia di marketing digitale che da i suoi frutti sul lungo periodo. Potr&agrave; sembrarti poco conveniente crearlo, tuttavia il coltivare uno strumento di questo tipo potrà portare ad un incremento sostanziale della visite al tuo sito web e conseguentemente un aumento di autorit&agrave; agli occhi dei tuoi lettori e quindi maggiori possibilit&agrave; di vendita e collaborazioni.</p>
+		<p>Il blog è una strategia di marketing digitale che da i suoi frutti sul lungo periodo. Potr&agrave; sembrarti poco conveniente crearlo, tuttavia il coltivare uno strumento di questo tipo potrà portare ad un incremento sostanziale della visite al tuo sito web, landing pages e squeeze pages e, conseguentemente, un aumento di autorit&agrave; agli occhi dei tuoi lettori e quindi maggiori possibilit&agrave; di business e collaborazioni.</p>
 		<ul class="actions">
 			<li><a href="#tiles" class="button next scrolly">Alcuni Esempi</a></li>
 		</ul>
@@ -162,6 +162,19 @@ nav-menu: yes
                 </header>
         </article>
 
+</section>
+
+<!-- Four -->
+<section id="four">
+	<div class="inner">
+		<header class="major">
+			<h2>Scopri tutti i Temi</h2>
+		</header>
+		<p></p>
+		<ul class="actions">
+			<li><a href="https://antblog.github.io" class="button special next">Temi</a></li>
+		</ul>
+	</div>
 </section>
 
 </div>

@@ -41,7 +41,7 @@ nav-menu:
 		<div class="row 200%">
 			<div class="6u 12u$(medium)">
 
-			<p>Sentiti libero di sbirciare sul blog con che strumenti produco i miei prodotti web, contattarmi oppure sapere pi&ugrave; su di me. </p>
+			<h3>Sentiti libero di sbirciare sul blog con che strumenti produco i miei prodotti web, contattarmi oppure sapere pi&ugrave; su di me. </h3>
 
 			<ul class="actions">
 				<li><a href="contatti.html" class="button big next">Contattami</a></li></ul>

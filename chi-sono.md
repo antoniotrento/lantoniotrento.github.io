@@ -155,7 +155,7 @@ nav-menu: yes
 				</header>
 				<p>Utilizzo le ultime tecnologie di hosting su internet per permettere hai tuoi prodotti di avere una marcia in pi&ugrave; rispetto la concorrenza per prodotti con maggiore robustezza, sicurezza, versatilit&agrave;, velocit&agrave; e grazia.</p>
 				<ul class="actions">
-					<li><a href="#tiles" class="button scrolly">Su di me</a></li>
+					<li><a href="#contact" class="button scrolly">Consulenza Gratuita</a></li>
 				</ul>
 			</div>
 		</div>

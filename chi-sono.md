@@ -99,37 +99,6 @@ nav-menu: yes
 	</div>
 </section>
 </div>
-
-<!-- carosello -->
-<section id="carosello">
-	<div class="inner">
-		<header class="major">
-			<h2>Temi e tools che utilizzo</h2>
-		</header>
-		<!-- CAROSELLO IMMAGINI ANTONIO -->
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-	</div>
-
-
-		<!-- CAROSELLO IMMAGINI ANTONIO FINE
-		<ul class="actions">
-			<li><a href="https://antblog.github.io" class="button special next">Temi</a></li>
-		</ul> -->
-	</div>
-</section>
-
-
 <!-- Tree -->
 <section id="tree" class="spotlights">
 	<section>
@@ -190,6 +159,34 @@ nav-menu: yes
 		</div>
 	</section>
 
+	<!-- carosello -->
+	<section id="carosello">
+		<div class="inner">
+			<header class="major">
+				<h2>Temi e tools che utilizzo</h2>
+			</header>
+			<!-- CAROSELLO IMMAGINI ANTONIO -->
+		<div class="row 50% uniform">
+			<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+			<!-- Break -->
+			<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
+			<!-- Break -->
+			<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+		</div>
+
+
+			<!-- CAROSELLO IMMAGINI ANTONIO FINE
+			<ul class="actions">
+				<li><a href="https://antblog.github.io" class="button special next">Temi</a></li>
+			</ul> -->
+		</div>
+	</section>
 
 	<!-- <section>
 		<a href="#tiles" class="image scrolly">

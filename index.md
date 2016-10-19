@@ -64,7 +64,7 @@ nav-menu:
 			<li><a href="https://pinterest.com/" class="button small special icon fa-pinterest">Pinterest</a></li></ul>
 			<ul class="actions">
 			<li><a href="https://facebook.com/" class="button small special icon fa-google-plus">Google+</a></li>
-			<li><a href="https://rebrand.ly/email-marketing" class="button small special icon fa-envelope-o">News</a></li>
+			<li><a href="https://rebrand.ly/email-marketing" class="button small special icon fa-envelope">News</a></li>
 			</ul></div>
 		</div>
 	</div>

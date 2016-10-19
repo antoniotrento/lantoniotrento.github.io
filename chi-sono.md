@@ -87,7 +87,8 @@ nav-menu: yes
         </article>
 
 </section>
-
+</div>
+<div id="main">
 <!-- Two -->
 
 <section id="Two">
@@ -98,7 +99,7 @@ nav-menu: yes
 		<p>Mi avvalgo </p>
 	</div>
 </section>
-</div>
+
 <!-- Tree -->
 <section id="tree" class="spotlights">
 	<section>
@@ -159,6 +160,8 @@ nav-menu: yes
 		</div>
 	</section>
 </div>
+
+
 <div id="main">
 	<!-- carosello -->
 	<section id="carosello">

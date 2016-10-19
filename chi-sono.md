@@ -136,7 +136,7 @@ nav-menu: yes
 				<header class="major">
 					<h3>Wordpress e Static Gens</h3>
 				</header>
-				<p>Sviluppo siti web, blog in <a href="https://it.wikipedia.org/wiki/WordPress" alt="wikipidia Wordpress">Wordpress</a> e personalizzazione e sviluppo digital strategy con prodotti risultanti di classe A tramite <a href="https://www.google.it/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=static%20generator">static website generators</a> e cloud hosting.</p>
+				<p>Sviluppo siti web, blog in <a href="https://it.wikipedia.org/wiki/WordPress" alt="wikipidia Wordpress">Wordpress</a> e personalizzazione e sviluppo digital strategy con prodotti risultanti di classe A tramite <a href="">static website generators</a> e cloud hosting.</p>
 				<ul class="actions">
 					<li><a href="#tiles" class="button scrolly">Behance folio</a></li>
 				</ul>
@@ -193,3 +193,5 @@ nav-menu: yes
 	</div>
 </section>
 -->
+
+</div>

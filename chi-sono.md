@@ -186,8 +186,7 @@ nav-menu: yes
 		<header class="major">
 			<h2>Colpisci nel segno</h2>
 		</header>
-		<div class="content">
-		<p>Hai bisogno di qualcosa di differenziante per colpire nel segno, in modo chiaro stiloso e dritto al punto, per non far perdere tempo a chi leggerà la tua presentazione.</p></div>
+		<h5>Hai bisogno di qualcosa di differenziante per colpire nel segno, in modo chiaro stiloso e dritto al punto, per non far perdere tempo a chi leggerà la tua presentazione.</h5>
 		<ul class="actions">
 			<li><a href="#tiles" class="button next scrolly">Torna su</a></li>
 		</ul>

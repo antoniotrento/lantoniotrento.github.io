@@ -158,7 +158,8 @@ nav-menu: yes
 			</div>
 		</div>
 	</section>
-
+</div>
+<div id="main">
 	<!-- carosello -->
 	<section id="carosello">
 		<div class="inner">

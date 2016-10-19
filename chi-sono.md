@@ -119,7 +119,7 @@ nav-menu: yes
 				<li>Grow Hack e automate <a href="https://twitter.com/officialtrento" rel="nofollow">my Twitter</a></li>
 				<li>Grow Hack <a href="https://vine.co/OfficialTrento" rel="nofollow">my Vine</a></li>
 				<li>Branding - Digital Strategy - Automation <a href="https://catsonweb.tumblr.com" rel="nofollow">CatsOnWeb</a></li>
-				<li><a href="https://officialtrento.altervista.org" rel="nofollow">Antonio Music Demo</a></li>
+				<li>Branding - Digital Strategy - Automation <a href="https://officialtrento.altervista.org" rel="nofollow">Antonio Music Demo</a></li>
 				</ul>
 				<ul class="actions">
 					<li><a href="#tiles" class="button scrolly">Web Curriculum</a></li>

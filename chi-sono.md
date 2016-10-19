@@ -166,7 +166,7 @@ nav-menu: yes
 	<section id="carosello">
 		<div class="inner">
 			<header class="major">
-				<h2>Temi e tools che utilizzo</h2>
+				<h2>Partner e tools che utilizzo</h2>
 			</header>
 			<!-- CAROSELLO IMMAGINI ANTONIO -->
 		<div class="row 50% uniform">

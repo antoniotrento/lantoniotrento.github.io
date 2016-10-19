@@ -184,7 +184,7 @@ nav-menu: yes
 		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
 	</div>
-
+ 
 
 		<!-- CAROSELLO IMMAGINI ANTONIO FINE -->
 		<ul class="actions">

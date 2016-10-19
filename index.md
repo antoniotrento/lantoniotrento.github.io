@@ -51,7 +51,7 @@ nav-menu:
 				<ul class="actions">
 				<li><a href="https://rebrand.ly/trendoblog" class="button big icon fa-newspaper-o">Blog</a></li>
 			</ul>
-			<ul>
+			<ul class="actions">
 			<li><a href="https://rebrand.ly/emailist" class="button icon fa-newspaper-o">Consulenza Gratis</a></li>
 			</ul>
 			</div>

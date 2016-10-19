@@ -136,7 +136,7 @@ nav-menu: yes
 				<header class="major">
 					<h3>Wordpress e Static Gens</h3>
 				</header>
-				<p>Sviluppo siti web in blog e Wordpress.</p>
+				<p>Sviluppo siti web, blog in Wordpress e personalizzazione e sviluppo digital strategy con prodotti risultanti di classe A tramite static website generators e cloud hosting.</p>
 				<ul class="actions">
 					<li><a href="#tiles" class="button scrolly">Su</a></li>
 				</ul>
@@ -151,11 +151,11 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Per relatori, professionisti e professori</h3>
+					<h3>Web Master competente</h3>
 				</header>
-				<p>Posso creare per te presentazioni professionali che utilizzano le ultime tecnologie per riuscire a conubiare online ed offline, avendo sempre con te, a disposizione i tuoi strumenti di business e presentazione utilizzabili su qualsiasi dispositivo sulla terra.</p>
+				<p>Utilizzo le ultime tecnologie di hosting su internet per permettere hai tuoi prodotti di avere una marcia in pi&ugrave; rispetto la concorrenza per prodotti con maggiore robustezza, sicurezza, versatilit&agrave;, velocit&agrave; e grazia.</p>
 				<ul class="actions">
-					<li><a href="#tiles" class="button scrolly">I miei profili</a></li>
+					<li><a href="#tiles" class="button scrolly">Su di me</a></li>
 				</ul>
 			</div>
 		</div>

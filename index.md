@@ -37,6 +37,12 @@ nav-menu:
 		</header>
 		<p>Avvalendomi degli strumenti più efficaci ed attuali sono ingrado di creare il tuo blog, portfolio, landing page pubblicitaria e di ideare e pianificare una strategia di promozione adatta ai servizi o prodotti di cui ti occupi!</p>
 
+		<ul class="actions">
+			<li><a href="contatti.html" class="button next">Contattami</a></li>
+			<li><a href="chi-sono.html" class="button special icon fa-hand-peace-o">Pi&ugrave; su di me</a></li>
+			<li><a href="https://rebrand.ly/trendoblog" class="button icon fa-newspaper-o">Visita il Blog</a></li>
+		</ul>
+
 
 		<div class="row 200%">
 			<div class="6u 12u$(medium)">

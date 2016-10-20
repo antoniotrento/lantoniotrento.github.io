@@ -47,9 +47,8 @@ nav-menu:
 			<li><a href="https://rebrand.ly/trendoblog" class="button fit icon fa-newspaper-o">Visita il blog</a></li>
 			<li><a href="https://rebrand.ly/emailist" class="button special fit icon fa-newspaper-o">Consulenza Gratis</a></li>
 		</ul>
-		<hr />
 		</div>
-
+		<hr />
 		<div class="row 200%">
 			<div class="6u 12u$(medium)">
 

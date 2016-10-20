@@ -36,27 +36,25 @@ nav-menu:
 			<h2>Crea la tua immagine su web!</h2>
 		</header>
 		<p>Avvalendomi degli strumenti più efficaci ed attuali sono ingrado di creare il tuo blog, portfolio, landing page pubblicitaria e di ideare e pianificare una strategia di promozione adatta ai servizi o prodotti di cui ti occupi!</p>
-		<hr />
 
-		<div class="6u$ 12u$(large)">
-		<ul class="actions fit">
-			<li><a href="/contatti.html" class="button special fit icon fa-hand-peace-o">Contattami</a></li>
-			<li><a href="/chi-sono.html" class="button fit icon fa-hand-peace-o">Pi&ugrave; su di me</a></li>
-		</ul>
-		<ul class="actions fit">
-			<li><a href="https://rebrand.ly/trendoblog" class="button fit icon fa-newspaper-o">Visita il blog</a></li>
-			<li><a href="https://rebrand.ly/emailist" class="button special fit icon fa-newspaper-o">Consulenza Gratis</a></li>
-		</ul>
-		</div>
-		<hr />
 		<div class="row 200%">
 			<div class="6u 12u$(medium)">
 
 			<h3>Sentiti libero di sbirciare</h3>
 			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p>
 
-			<h3>Una mano per me ed una consulenza gratuita per te?</h3>
-			<p>Se vorrai potrai essere aggiunto in lista d'attesa e ricevere una consulenza gratuita, così avrai anche occasione di essere aggiunto al mio gruppo segreto su facebook. Il funzionamento &egrave; molto semplice, condividi con il pulsante sul social che utilizzi di pi&ugrave; e tassativamente su <a>LinkedIn</a> poi torna qui e premi sul bottone news, potremo darci una mano a vicenda con qualche condivisione, ed una consulenza gratuita sul tuo business, che ne dici? </p>
+			<div class="6u$ 12u$(large)">
+			<ul class="actions fit">
+				<li><a href="/contatti.html" class="button special fit icon fa-keyboard-o">Contattami</a></li>
+				<li><a href="/chi-sono.html" class="button fit icon fa-hand-peace-o">Pi&ugrave; su di me</a></li>
+			</ul>
+			<ul class="actions fit">
+				<li><a href="https://rebrand.ly/trendoblog" class="button fit icon fa-newspaper-o">Visita il blog</a></li>
+				<li><a href="https://rebrand.ly/emailist" class="button special fit icon fa-newspaper-o">Consulenza Gratis</a></li>
+			</ul>
+			</div>
+
+
 
 		<!--	<ul class="actions">
 				<li><a href="contatti.html" class="button next">Contattami</a></li></ul>
@@ -72,6 +70,8 @@ nav-menu:
 
 
 			<div class="6u$ 12u$(medium)">
+			<h3>Una mano per me ed una consulenza gratuita per te?</h3>
+			<p>Se vorrai potrai essere aggiunto in lista d'attesa e ricevere una consulenza gratuita, così avrai anche occasione di essere aggiunto al mio gruppo segreto su facebook. Il funzionamento &egrave; molto semplice, condividi con il pulsante sul social che utilizzi di pi&ugrave; e tassativamente su <a>LinkedIn</a> poi torna qui e premi sul bottone news, potremo darci una mano a vicenda con qualche condivisione, ed una consulenza gratuita sul tuo business, che ne dici? </p>
 			<hr />
 			<ul class="actions fit">
 				<li><a href="https://facebook.com/" class="button special fit icon fa-hand-peace-o">Facebook</a></li>

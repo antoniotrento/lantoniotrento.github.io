@@ -41,6 +41,7 @@ nav-menu:
 			<li><a href="contatti.html" class="button next">Contattami</a></li>
 			<li><a href="chi-sono.html" class="button special icon fa-hand-peace-o">Pi&ugrave; su di me</a></li>
 			<li><a href="https://rebrand.ly/trendoblog" class="button icon fa-newspaper-o">Visita il Blog</a></li>
+			<li><a href="https://rebrand.ly/emailist" class="button special icon fa-newspaper-o">Consulenza Gratis</a></li>
 		</ul>
 
 
@@ -50,7 +51,7 @@ nav-menu:
 			<h3>Sentiti libero di sbirciare</h3>
 			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p>
 
-			<ul class="actions">
+		<!--	<ul class="actions">
 				<li><a href="contatti.html" class="button next">Contattami</a></li></ul>
 				<ul class="actions">
 				<li><a href="chi-sono.html" class="button special icon fa-hand-peace-o">Pi&ugrave; su di me</a></li></ul>
@@ -59,7 +60,7 @@ nav-menu:
 			</ul>
 			<ul class="actions">
 			<li><a href="https://rebrand.ly/emailist" class="button icon fa-newspaper-o">Consulenza Gratis</a></li>
-			</ul>
+			</ul> -->
 			</div>
 
 			<div class="6u$ 12u$(medium)">

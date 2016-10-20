@@ -77,7 +77,7 @@ nav-menu:
 				<li><a href="#" class="button special fit small">Fit + Small</a></li>
 				<li><a href="#" class="button fit small">Fit + Small</a></li>
 			</ul>
-</div>
+			</div>
 
 
 

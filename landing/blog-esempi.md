@@ -42,17 +42,17 @@ nav-menu: yes
 		</header>
 		<!-- CAROSELLO IMMAGINI ANTONIO -->
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="/assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="/assets/images/pic09.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="/assets/images/pic10.jpg" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="/assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="/assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="/assets/images/pic09.jpg" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="/assets/images/pic09.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="/assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="/assets/images/pic08.jpg" alt="" /></span></div>
 	</div>
 
 
@@ -68,7 +68,7 @@ nav-menu: yes
 <section id="two" class="spotlights">
 	<section>
 		<a href="#tiles" class="scrolly image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="/assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -84,7 +84,7 @@ nav-menu: yes
 	</section>
 	<section>
 		<a href="#tiles" class="scrolly image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="/assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -100,7 +100,7 @@ nav-menu: yes
 	</section>
 	<section>
 		<a href="#tiles" class="scrolly image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="/assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

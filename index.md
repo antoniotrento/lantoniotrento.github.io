@@ -81,6 +81,7 @@ nav-menu:
 				<li><a href="https://pinterest.com/" class="button special fit">Google+</a></li>
 				<li><a href="https://rebrand.ly/email-marketing" class="button fit">Iscriviti</a></li>
 			</ul>
+			<hr />
 			</div>
 
 		</div>

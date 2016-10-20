@@ -68,7 +68,7 @@ nav-menu:
 
 
 			<div class="6u$ 12u$(medium)">
-
+			<hr />
 			<ul class="actions fit">
 				<li><a href="https://facebook.com/" class="button special fit">Facebook</a></li>
 				<li><a href="https://twitter.com/" class="button fit">Twitter</a></li>

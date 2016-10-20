@@ -39,7 +39,6 @@ nav-menu:
 		<hr />
 
 		<div class="6u$ 12u$(medium)">
-		<hr />
 		<ul class="actions fit">
 			<li><a href="/contatti.html" class="button special fit icon fa-hand-peace-o">Contattami</a></li>
 			<li><a href="/chi-sono.html" class="button fit icon fa-hand-peace-o">Pi&ugrave; su di me</a></li>
@@ -50,9 +49,6 @@ nav-menu:
 		</ul>
 		<hr />
 		</div>
-
-		<hr />
-
 
 		<div class="row 200%">
 			<div class="6u 12u$(medium)">

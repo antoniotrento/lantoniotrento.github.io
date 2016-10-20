@@ -43,7 +43,7 @@ nav-menu:
 			<h3>Sentiti libero di sbirciare</h3>
 			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p>
 
-			<div class="6u$ 12u$(large)">
+			<div class="6u$ 12u$(medium)">
 			<ul class="actions fit">
 				<li><a href="/contatti.html" class="button special fit icon fa-keyboard-o">Contattami</a></li>
 				<li><a href="/chi-sono.html" class="button fit icon fa-hand-peace-o">Pi&ugrave; su di me</a></li>

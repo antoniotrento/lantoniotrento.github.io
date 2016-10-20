@@ -38,7 +38,7 @@ nav-menu:
 		<p>Avvalendomi degli strumenti più efficaci ed attuali sono ingrado di creare il tuo blog, portfolio, landing page pubblicitaria e di ideare e pianificare una strategia di promozione adatta ai servizi o prodotti di cui ti occupi!</p>
 		<hr />
 
-		<div class="6u$ 12u$(medium)">
+		<div class="6u$ 12u$(large)">
 		<ul class="actions fit">
 			<li><a href="/contatti.html" class="button special fit icon fa-hand-peace-o">Contattami</a></li>
 			<li><a href="/chi-sono.html" class="button fit icon fa-hand-peace-o">Pi&ugrave; su di me</a></li>

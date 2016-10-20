@@ -70,28 +70,19 @@ nav-menu:
 			<div class="6u$ 12u$(medium)">
 
 			<ul class="actions fit">
-				<li><a href="#" class="button special fit">Fit</a></li>
-				<li><a href="#" class="button fit">Fit</a></li>
+				<li><a href="https://facebook.com/" class="button special fit">Facebook</a></li>
+				<li><a href="https://twitter.com/" class="button fit">Twitter</a></li>
 			</ul>
-			<ul class="actions fit small">
-				<li><a href="#" class="button special fit small">Fit + Small</a></li>
-				<li><a href="#" class="button fit small">Fit + Small</a></li>
+			<ul class="actions fit">
+				<li><a href="https://linkedin.com/" class="button special fit">LinkedIn</a></li>
+				<li><a href="https://pinterest.com/" class="button fit">Pinterest</a></li>
+			</ul>
+			<ul class="actions fit">
+				<li><a href="https://pinterest.com/" class="button special fit">Google+</a></li>
+				<li><a href="https://rebrand.ly/email-marketing" class="button fit">Fit</a>Iscriviti</li>
 			</ul>
 			</div>
 
-
-
-			<div class="6u$ 12u$(medium)">
-			<ul class="actions">
-			<li><a href="https://facebook.com/" class="button small special icon fa-facebook">Facebook</a></li>
-			<li><a href="https://twitter.com/" class="button small special icon fa-twitter">Twitter</a></li></ul>
-			<ul class="actions">
-			<li><a href="https://linkedin.com/" class="button small special icon fa-linkedin">LinkedIn</a></li>
-			<li><a href="https://pinterest.com/" class="button small special icon fa-pinterest">Pinterest</a></li></ul>
-			<ul class="actions">
-			<li><a href="https://facebook.com/" class="button small special icon fa-google-plus">Google+</a></li>
-			<li><a href="https://rebrand.ly/email-marketing" class="button small special icon fa-envelope">News</a></li>
-			</ul></div>
 		</div>
 	</div>
 </section>

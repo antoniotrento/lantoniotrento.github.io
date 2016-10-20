@@ -46,7 +46,7 @@ nav-menu:
 
 
 		<div class="row 200%">
-			<div class="6u 12u$(small)">
+			<div class="6u 12u$(medium)">
 
 			<h3>Sentiti libero di sbirciare</h3>
 			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p>
@@ -65,7 +65,7 @@ nav-menu:
 			<li><a href="https://rebrand.ly/emailist" class="button icon fa-newspaper-o">Consulenza Gratis</a></li>
 			</ul> -->
 			</div>
-			<div class="6u$ 12u$(small)">
+			<div class="6u$ 12u$(medium)">
 				<ul class="actions vertical small">
 					<li><a href="#" class="button special small fit">Small</a></li>
 					<li><a href="#" class="button small fit">Small</a></li>

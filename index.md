@@ -74,8 +74,8 @@ nav-menu:
 				<li><a href="https://twitter.com/" class="button fit">Twitter</a></li>
 			</ul>
 			<ul class="actions fit">
-				<li><a href="https://linkedin.com/" class="button special fit">LinkedIn</a></li>
-				<li><a href="https://pinterest.com/" class="button fit">Pinterest</a></li>
+				<li><a href="https://linkedin.com/" class="button fit">LinkedIn</a></li>
+				<li><a href="https://pinterest.com/" class="button special fit">Pinterest</a></li>
 			</ul>
 			<ul class="actions fit">
 				<li><a href="https://pinterest.com/" class="button special fit">Google+</a></li>

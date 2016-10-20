@@ -170,7 +170,8 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <p>Landing e presentazioni per fotografi</p>
+												<h3><a href="/landing/landing-fotografi.html" class="link">Prodotti per fotografi</a></h3>
+                        <p>Landing page e presentazioni per fotografi di eccellenza</p>
                 </header>
         </article>
 

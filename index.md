@@ -65,14 +65,47 @@ nav-menu:
 			<li><a href="https://rebrand.ly/emailist" class="button icon fa-newspaper-o">Consulenza Gratis</a></li>
 			</ul> -->
 			</div>
-			<div class="6u$ 12u$(medium)">
-				<ul class="actions vertical small">
-					<li><a href="#" class="button special small fit">Small</a></li>
-					<li><a href="#" class="button small fit">Small</a></li>
-				</ul>
-			</div>
+
+
 			<div class="6u$ 12u$(medium)">
 
+			<!-- Buttons -->
+			<h3>Buttons</h3>
+			<ul class="actions">
+				<li><a href="#" class="button special">Special</a></li>
+				<li><a href="#" class="button">Default</a></li>
+			</ul>
+			<ul class="actions">
+				<li><a href="#" class="button big">Big</a></li>
+				<li><a href="#" class="button">Default</a></li>
+				<li><a href="#" class="button small">Small</a></li>
+			</ul>
+			<ul class="actions">
+				<li><a href="#" class="button special big">Big</a></li>
+				<li><a href="#" class="button special">Default</a></li>
+				<li><a href="#" class="button special small">Small</a></li>
+			</ul>
+			<ul class="actions fit">
+				<li><a href="#" class="button special fit">Fit</a></li>
+				<li><a href="#" class="button fit">Fit</a></li>
+			</ul>
+			<ul class="actions fit small">
+				<li><a href="#" class="button special fit small">Fit + Small</a></li>
+				<li><a href="#" class="button fit small">Fit + Small</a></li>
+			</ul>
+			<ul class="actions">
+				<li><a href="#" class="button special icon fa-search">Icon</a></li>
+				<li><a href="#" class="button icon fa-download">Icon</a></li>
+			</ul>
+			<ul class="actions">
+				<li><span class="button special disabled">Special</span></li>
+				<li><span class="button disabled">Default</span></li>
+			</ul>
+</div>
+
+
+
+			<div class="6u$ 12u$(medium)">
 			<ul class="actions">
 			<li><a href="https://facebook.com/" class="button small special icon fa-facebook">Facebook</a></li>
 			<li><a href="https://twitter.com/" class="button small special icon fa-twitter">Twitter</a></li></ul>

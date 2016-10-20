@@ -79,7 +79,7 @@ nav-menu:
 			</ul>
 			<ul class="actions fit">
 				<li><a href="https://pinterest.com/" class="button special fit">Google+</a></li>
-				<li><a href="https://rebrand.ly/email-marketing" class="button fit">Fit</a>Iscriviti</li>
+				<li><a href="https://rebrand.ly/email-marketing" class="button fit">Iscriviti</a></li>
 			</ul>
 			</div>
 

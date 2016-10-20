@@ -51,6 +51,9 @@ nav-menu:
 			<h3>Sentiti libero di sbirciare</h3>
 			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p>
 
+			<h3>Una mano per me ed una consulenza gratuita per te?</h3>
+			<p>Se vorrai potrai essere aggiunto in lista d'attesa e ricevere una consulenza gratuita, così avrai anche occasione di essere aggiunto al mio gruppo segreto su facebook. Il funzionamento &egrave; molto semplice, condividi con il pulsante sul social che utilizzi di pi&ugrave; e tassativamente su <a>LinkedIn</a> poi torna qui e premi sul bottone news, potremo darci una mano a vicenda con qualche condivisione, ed una consulenza gratuita sul tuo business, che ne dici? </p>
+
 		<!--	<ul class="actions">
 				<li><a href="contatti.html" class="button next">Contattami</a></li></ul>
 				<ul class="actions">
@@ -64,8 +67,6 @@ nav-menu:
 			</div>
 
 			<div class="6u$ 12u$(medium)">
-			<h3>Una mano per me ed una consulenza gratuita per te?</h3>
-			<p>Se vorrai potrai essere aggiunto in lista d'attesa e ricevere una consulenza gratuita, così avrai anche occasione di essere aggiunto al mio gruppo segreto su facebook. Il funzionamento &egrave; molto semplice, condividi con il pulsante sul social che utilizzi di pi&ugrave; e tassativamente su <a>LinkedIn</a> poi torna qui e premi sul bottone news, potremo darci una mano a vicenda con qualche condivisione, ed una consulenza gratuita sul tuo business, che ne dici? </p>
 
 			<ul class="actions">
 			<li><a href="https://facebook.com/" class="button small special icon fa-facebook">Facebook</a></li>

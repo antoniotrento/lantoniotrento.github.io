@@ -8,7 +8,7 @@ nav-menu: yes
 
 <!-- Banner -->
 <!-- Note: The "styleN" class below should match that of the header element. -->
-<section id="banner" class="style1">
+<section id="banner" class="style2">
 	<div class="inner">
 		<span class="image">
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />

@@ -170,7 +170,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <p>I migliori strumenti per web studiati appositamente per i fotografi</p>
+                        <p>Landing e presentazioni per fotografi</p>
                 </header>
         </article>
 

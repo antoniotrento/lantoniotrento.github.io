@@ -65,14 +65,14 @@ nav-menu:
 			<li><a href="https://rebrand.ly/emailist" class="button icon fa-newspaper-o">Consulenza Gratis</a></li>
 			</ul> -->
 			</div>
-
-			<div class="6u$ 12u$(medium)">
 			<div class="6u$ 12u$(small)">
 				<ul class="actions vertical small">
 					<li><a href="#" class="button special small fit">Small</a></li>
 					<li><a href="#" class="button small fit">Small</a></li>
 				</ul>
 			</div>
+			<div class="6u$ 12u$(medium)">
+
 			<ul class="actions">
 			<li><a href="https://facebook.com/" class="button small special icon fa-facebook">Facebook</a></li>
 			<li><a href="https://twitter.com/" class="button small special icon fa-twitter">Twitter</a></li></ul>

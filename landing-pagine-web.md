@@ -180,7 +180,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="/landing/landing-music-video.html" class="link">Per Music e Video Artitsts</a></h3>
+                        <h3><a href="/landing/landing-music-video.html" class="link">Per Music e Video Artists</a></h3>
                         <p>Strumenti utili a promuovere qualsiasi tipo di arte contemporanea come i video editor e produttori musicali</p>
                 </header>
         </article>

@@ -46,7 +46,7 @@ nav-menu:
 
 
 		<div class="row 200%">
-			<div class="6u 12u$(medium)">
+			<div class="6u 12u$(small)">
 
 			<h3>Sentiti libero di sbirciare</h3>
 			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p>

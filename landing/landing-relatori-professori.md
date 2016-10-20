@@ -1,7 +1,7 @@
 ---
 layout: landing
-title: Web Design
-description: Sviluppo per te Squeeze e Landing Pages.
+title: Landing per Relatori e professori
+description: Sviluppo Squeeze e Landing Pages adatte a artisti che producono video e audio.
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Fai apprezzare e conoscere il tuo business</h1>
+			<h1>Per un relatore preciso e serio, come te</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
@@ -99,48 +99,6 @@ nav-menu: yes
 		</ul>
 	</div>
 </section>
-<!-- VERSIONE TILES CON LINK DIRETTI AD ESEMPI DI BLOG
-<section id="one" class="tiles">
-        <article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://spectraljeky.github.io" class="link">Spectral layout</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-        <article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://fortlyjeky.github.io/" class="link">Fortly layout</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-				<article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://landjeky.github.io/" class="link">Land layout</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-				<article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://artblog.github.io/" class="link">Art layout</a></h3>
-                        <p></p>
-                </header>
-        </article>
--->
 
 <!-- Versione tiles con sottopagine per buyer personas -->
 
@@ -150,8 +108,8 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="/landing/landing-professionisti.html" class="link">Prodotti per Professionisti</a></h3>
-                        <p>Ho selezionato per te tutti i miglior strumenti da implementare nella tua strategia digitale</p>
+                        <h3><a href="/landing-professionisti.html" class="link">Prodotti per Professionisti</a></h3>
+                        <p>Ho selezionato per te tutti i migliori strumenti da implementare nella tua strategia digitale</p>
                 </header>
         </article>
 
@@ -160,7 +118,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="/landing/landing-blogger.html" class="link">Prodotti per Blogger</a></h3>
+                        <h3><a href="/landing-blogger.html" class="link">Prodotti per Blogger</a></h3>
                         <p>Ho trovato per te tutti i migliori template utilizzabili per promuovere il tuo blog</p>
                 </header>
         </article>
@@ -170,6 +128,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
                 </span>
                 <header class="major">
+                        <h3><a href="/landing-fotografi.html" class="link">Fotografi freelance</a></h3>
                         <p>I migliori strumenti per web studiati appositamente per i fotografi</p>
                 </header>
         </article>
@@ -179,7 +138,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="/landing/landing-music-video.html" class="link">Per Music e Video Artitsts</a></h3>
+                        <h3><a href="/landing-music-video.html" class="link">Per Music e Video Artitsts</a></h3>
                         <p>Strumenti utili a promuovere qualsiasi tipo di arte contemporanea come i video editor e produttori musicali</p>
                 </header>
         </article>
@@ -191,7 +150,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="/landing/landing-relatori-professori" class="link">Relatori e professori</a></h3>
+                        <h3><a href="/landing-relatori-professori" class="link">Relatori e professori</a></h3>
                         <p>Anche questa categoria di professionista pu&ograve; giovare dell'appoggio mediatico dei miei prodotti</p>
                 </header>
         </article>
@@ -201,7 +160,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic06.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="/landing/landing-network-maketing.html" class="link">Network Marketer</a></h3>
+                        <h3><a href="/landing-network-maketing.html" class="link">Network Marketer</a></h3>
                         <p>Grazie alle occasioni di business offerte dal network marketing anche tu potrai renedere visibile al massimo il tuo brand per vendere e istruire la tua downline</p>
                 </header>
         </article>

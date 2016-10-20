@@ -1,7 +1,7 @@
 ---
 layout: landing
-title: Blog
-description: Crea grazie ad Antonio blog di qualità superiore<br />per amplificare a dismisura la tua digital strategy.
+title: Blog per artisti che operano nel campo dei media
+description: Un blog per scatenare la tua vena artistica e non pensare ai tecnicismi
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Racconta la storia del tuo business</h1>
+			<h1>Blog adatti a te che sei un artista</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
@@ -100,70 +100,6 @@ nav-menu: yes
 	</div>
 </section>
 
-<!-- Sezione tiles con link a demo progetti
-<section id="tiles" class="tiles">
-        <article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://twentyjeky.github.io" class="link">Twenty Theme</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-        <article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://artblog.github.io/" class="link">Clean Theme</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-				<article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://holoalfa.github.io" class="link">Holoalfa Theme</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-				<article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://willjekyll.github.io" class="link">Will Theme</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-				<article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://jekycorps.github.io/" class="link">Corporate Theme</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-				<article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic06.jpg" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="https://antoniotrento.github.io" class="link">Carte noir Theme</a></h3>
-                        <p></p>
-                </header>
-        </article>
-
-</section> -->
-
 <!-- Sezione tiles con pagine di buyer personas specifiche -->
 
 <section id="tiles" class="tiles">
@@ -172,7 +108,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="/landing/blog-professionista.html" class="link">Blog per professionisti</a></h3>
+                        <h3><a href="/blog-professionista.html" class="link">Blog per professionisti</a></h3>
                         <p>Ho selezionato i migliori layout per far trasparire professionalità al tuo blog</p>
                 </header>
         </article>
@@ -182,7 +118,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="/landing/blog-blogger.html" class="link">Prodotti specifici per blogger</a></h3>
+                        <h3><a href="/blog-blogger.html" class="link">Prodotti specifici per blogger</a></h3>
                         <p>Grazie hai miei prodotti avrai un blog su misura per gli argomenti che tratti</p>
                 </header>
         </article>
@@ -192,7 +128,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="/landing/blog-fotografi.html" class="link">Blog per fotografi</a></h3>
+                        <h3><a href="/blog-fotografi.html" class="link">Blog per fotografi</a></h3>
                         <p>Ho selezionato per te gli strumenti di blogging per semplificare la vita e che più si addicono ad un fotografo</p>
                 </header>
         </article>
@@ -202,7 +138,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="/landing/blog-music-video.html" class="link">Video e Music Artists</a></h3>
+                        <h3><a href="https://willjekyll.github.io" class="link">Video e Music Artists</a></h3>
                         <p>Un artista ha bisogno di un prodotto estroso ed adatto al tipo di pubblicazioni che effettui, ed io ho quello che fa per te</p>
                 </header>
         </article>
@@ -212,7 +148,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="/landing/blog-network-marketing.html" class="link">Network Marketer</a></h3>
+                        <h3><a href="https://jekycorps.github.io/" class="link">Network Marketer</a></h3>
                         <p>Se hai finalmente capito che stare sui gruppi facebook a spammare a vuoto la tua offerta sia inutile, ed hai compreso che hai bisogno di qualcosa di differenziante, io posso aiutarti</p>
                 </header>
         </article>
@@ -222,7 +158,7 @@ nav-menu: yes
                         <img src="{{ site.baseurl }}/assets/images/pic06.jpg" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="/landing/blog-relatori-professori.html" class="link">Professori e Relatori</a></h3>
+                        <h3><a href="https://antoniotrento.github.io" class="link">Professori e Relatori</a></h3>
                         <p>Grazie a strumenti di presentazione impeccabili e layout per produrre documentazioni chiare e ben fatte, posso dire di avere il prodotto giusto per te</p>
                 </header>
         </article>

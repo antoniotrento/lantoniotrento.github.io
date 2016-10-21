@@ -44,6 +44,7 @@ nav-menu:
 			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p>
 
 			<div class="6u$ 12u$(medium)">
+			<hr />
 			<ul class="actions fit">
 				<li><a href="/contatti.html" class="button special fit icon fa-keyboard-o">Contattami</a></li>
 				<li><a href="/chi-sono.html" class="button fit icon fa-hand-peace-o">Pi&ugrave; su di me</a></li>
@@ -52,6 +53,7 @@ nav-menu:
 				<li><a href="https://rebrand.ly/trendoblog" class="button fit icon fa-newspaper-o">Visita il blog</a></li>
 				<li><a href="https://rebrand.ly/emailist" class="button special fit icon fa-newspaper-o">Consulenza Gratis</a></li>
 			</ul>
+			<hr />
 			</div>
 
 
@@ -73,17 +75,13 @@ nav-menu:
 			<h3>Una mano per me ed una consulenza gratuita per te?</h3>
 			<p>Se vorrai potrai essere aggiunto in lista d'attesa e ricevere una consulenza gratuita, così avrai anche occasione di essere aggiunto al mio gruppo segreto su facebook. Il funzionamento &egrave; molto semplice, condividi con il pulsante sul social che utilizzi di pi&ugrave; e tassativamente su <a>LinkedIn</a> poi torna qui e premi sul bottone news, potremo darci una mano a vicenda con qualche condivisione, ed una consulenza gratuita sul tuo business, che ne dici? </p>
 			<hr />
-			<ul class="actions fit">
-				<li><a href="https://facebook.com/" class="button special fit icon fa-hand-peace-o">Facebook</a></li>
-				<li><a href="https://twitter.com/" class="button fit">Twitter</a></li>
-			</ul>
-			<ul class="actions fit">
-				<li><a href="https://linkedin.com/" class="button fit">LinkedIn</a></li>
-				<li><a href="https://pinterest.com/" class="button special fit">Pinterest</a></li>
-			</ul>
-			<ul class="actions fit">
-				<li><a href="https://pinterest.com/" class="button special fit">Google+</a></li>
-				<li><a href="https://rebrand.ly/email-marketing" class="button fit">Iscriviti</a></li>
+			<ul class="icons">
+				<li><a href="https://twitter.com/" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="https://facebook.com/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+				<li><a href="https://linkedin.com/" class="icon fa-linkedin"><span class="label">Instagram</span></a></li>
+				<li><a href="https://pinterest.com/" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+				<li><a href="https://google.plus" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+				<li><a href="https://rebrand.ly/email-marketing" class="icon fa-tumblr"><span class="label">Iscriviti</span></a></li>
 			</ul>
 			<hr />
 			</div>

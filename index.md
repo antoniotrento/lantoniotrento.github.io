@@ -41,7 +41,7 @@ nav-menu:
 			<div class="6u 12u$(medium)">
 
 			<h3>Sentiti libero di sbirciare</h3>
-			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p>
+			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p><br /><br />
 
 
 			<hr />
@@ -74,7 +74,7 @@ nav-menu:
 			<div class="6u$ 12u$(medium)">
 			<h3>Una mano per me ed una consulenza gratuita per te?</h3>
 			<p>Se vorrai potrai essere aggiunto in lista d'attesa e ricevere una consulenza gratuita, così avrai anche occasione di essere aggiunto al mio gruppo segreto su facebook. Il funzionamento &egrave; molto semplice, condividi con il pulsante sul social che utilizzi di pi&ugrave; e tassativamente su <a>LinkedIn</a> poi torna qui e premi sul bottone news, potremo darci una mano a vicenda con qualche condivisione, ed una consulenza gratuita sul tuo business, che ne dici? </p>
-			
+
 			<ul class="icons">
 				<li><a href="https://twitter.com/" class="icon fa-twitter fa-2x"><span class="label">Twitter</span></a></li>
 				<li><a href="https://facebook.com/" class="icon fa-facebook fa-2x"><span class="label">Facebook</span></a></li>

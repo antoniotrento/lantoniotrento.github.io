@@ -95,7 +95,7 @@ nav-menu: yes
 		</header>
 		<p>Alcuni esempi che possono essere applicati al tuo business o a tutto ciò che vorresti comunicare su web. Ogni prodotto creato da me utilizza le ultime tecnologie disponibili su mercato per sviluppare un prodotto di leggerezza e qualità di gran lunga superiore alla media di mercato.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Avanti</a></li>
+			<li><a href="#tiles" class="button next scrolly">Avanti</a></li>
 		</ul>
 	</div>
 </section>

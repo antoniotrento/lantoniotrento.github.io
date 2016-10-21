@@ -41,9 +41,9 @@ nav-menu:
 			<div class="6u 12u$(medium)">
 
 			<h3>Sentiti libero di sbirciare</h3>
-			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p>
-			<p>Bla bla vla osdn </p>
-			<p>Bla bla vla osdn </p>
+			<p>Dai un occhiata sul blog per scoprire con che strumenti produco i miei prodotti web.</p>
+			<p>Se ti va puoi conoscere di più su di me facendo click sull'apposito pulsante.</p>
+			<p>Puoi ottenere una consulenza gratuita seguendo il regolamento di seguito.</p>
 
 
 			<ul class="actions fit">

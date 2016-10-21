@@ -43,7 +43,7 @@ nav-menu:
 			<h3>Sentiti libero di sbirciare</h3>
 			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p>
 
-			<div class="6u$ 12u$(medium)">
+
 			<hr />
 			<ul class="actions fit">
 				<li><a href="/contatti.html" class="button special fit icon fa-keyboard-o">Contattami</a></li>
@@ -54,7 +54,7 @@ nav-menu:
 				<li><a href="https://rebrand.ly/emailist" class="button special fit icon fa-newspaper-o">Consulenza Gratis</a></li>
 			</ul>
 			<hr />
-			</div>
+			
 
 
 

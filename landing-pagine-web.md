@@ -38,7 +38,7 @@ nav-menu: yes
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="#tiles" class="scrolly image">
+		<a href="#three" class="scrolly image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">

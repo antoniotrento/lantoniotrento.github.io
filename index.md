@@ -41,7 +41,9 @@ nav-menu:
 			<div class="6u 12u$(medium)">
 
 			<h3>Sentiti libero di sbirciare</h3>
-			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p><p></p><p></p>
+			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p>
+			<p> </p>
+			<p> </p>
 
 
 			<hr />

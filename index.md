@@ -42,7 +42,7 @@ nav-menu:
 
 			<h3>Sentiti libero di sbirciare</h3>
 			<p>Sul blog con che strumenti produco i miei prodotti web, contattarmi oppure curiosa pure su di me. </p>
-			<p> </p>
+			<p>Bla bla vla osdn </p>
 			<p> </p>
 
 

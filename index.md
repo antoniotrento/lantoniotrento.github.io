@@ -53,7 +53,7 @@ nav-menu:
 			</ul>
 			<ul class="actions fit">
 				<li><a href="https://rebrand.ly/trendoblog" class="button fit icon fa-newspaper-o">Blog</a></li>
-				<li><a href="https://rebrand.ly/emailist" class="button special fit icon fa-envelope">Consulenza</a></li>
+				<li><a href="https://rebrand.ly/emailist" class="button special fit icon fa-envelope-o">Consulenza</a></li>
 			</ul>
 			<hr />
 

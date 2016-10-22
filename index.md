@@ -24,7 +24,9 @@ nav-menu:
 		</ul>
 	</div></div>
 
-	<div class="6u 12u$(medium)"><p>cazzopoli</p></div>
+	<div class="6u 12u$(medium)"><a href="#three" class="scrolly image">
+		<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+	</a></div>
 
 	</div>
 <!--	<div class="inner">

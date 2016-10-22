@@ -22,7 +22,7 @@ nav-menu:
 			<li><a href="#one" class="button next scrolly">Come puoi aiutarmi?</a></li>
 		</ul>
 	</div></div>
-	<div class="6u$ 12u$(medium)"><span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span></div>
+	<div class=""><span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span></div>
 </div>
 <!--	<div class="inner">
 		<header class="major">

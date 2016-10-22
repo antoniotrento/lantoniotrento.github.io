@@ -9,9 +9,9 @@ nav-menu:
 ---
 
 <!-- Banner -->
-<!--
-<section id="banner" class="major">
 
+<section id="banner" class="major">
+<!--
 <div class="row 200% inner">
 	<div class="6u 12u$(medium)"><header class="major">
 

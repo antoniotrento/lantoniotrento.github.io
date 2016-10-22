@@ -13,7 +13,7 @@ nav-menu:
 <section id="banner" class="major">
 
 <div class="row 200% inner">
-	<div class="6u 12u$(medium)"><header class="major">
+	<div class="6u$ 12u$(medium)"><header class="major">
 
 		<h1>{{ page.landing-title }}</h1>
 	</header>
@@ -24,7 +24,7 @@ nav-menu:
 		</ul>
 	</div></div>
 
-	<div class="6u 12u$(medium)"><a href="#three" class="scrolly image">
+	<div class="6u$ 12u$(medium)"><a href="#three" class="scrolly image">
 		<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 	</a></div>
 

@@ -22,8 +22,7 @@ nav-menu:
 			<li><a href="#one" class="button next scrolly">Come ti aiuto?</a></li>
 		</ul>
 	</div></div>
-	<div class="6u 12u$(medium)"><div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div></div>
-</div>
+	</div>
 <!--	<div class="inner">
 		<header class="major">
 			<h1>{{ page.landing-title }}</h1>

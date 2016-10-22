@@ -24,7 +24,7 @@ nav-menu:
 		</ul>
 	</div></div>
 
-	<div class="6u$ 12u$(medium)"><a href="#three" class="scrolly image">
+	<div class="6u$ 12u$(medium)"><a href="#three" class="image">
 		<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 	</a></div>
 

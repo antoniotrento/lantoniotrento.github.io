@@ -11,7 +11,12 @@ nav-menu:
 <!-- Banner -->
 
 <section id="banner" class="major">
-	<div class="inner">
+
+<div class="row 200%">
+	<div class="6u 12u$(medium)"><p>cazzopoli</p></div>
+	<div class="6u 12u$(medium)"><p>cazzopoli</p></div>
+</div>
+<!--	<div class="inner">
 		<header class="major">
 			<h1>{{ page.landing-title }}</h1>
 		</header>
@@ -21,7 +26,7 @@ nav-menu:
 				<li><a href="#one" class="button next scrolly">Come puoi aiutarmi?</a></li>
 			</ul>
 		</div>
-	</div>
+	</div> .-->
 </section>
 
 <!-- Main -->
@@ -37,11 +42,6 @@ nav-menu:
 			<h2>Crea la tua immagine su web!</h2>
 		</header>
 		<p>Avvalendomi degli strumenti più efficaci ed attuali sono ingrado di creare il tuo blog, portfolio, landing page pubblicitaria e di ideare e pianificare una strategia di promozione adatta ai servizi o prodotti di cui ti occupi!</p>
-
-		<div class="row 200%">
-			<div class="6u 12u$(medium)"><p>cazzopoli</p></div>
-			<div class="6u 12u$(medium)"><p>cazzopoli</p></div>
-		</div>
 
 		<div class="row 200%">
 			<div class="6u 12u$(medium)">

@@ -19,7 +19,7 @@ nav-menu:
 	<div class="content">
 		<p style="text-transform: uppercase;">{{ site.description }}</p>
 		<ul class="actions">
-			<li><a href="#one" class="button next scrolly">Come puoi aiutarmi?</a></li>
+			<li><a href="#one" class="button next scrolly">Come ti aiuto?</a></li>
 		</ul>
 	</div></div>
 	<div class="6u$ 12u$(medium)"><span class="image"><img src="assets/images/pic03.jpg" alt="" /></span></div>

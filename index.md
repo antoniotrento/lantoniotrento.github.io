@@ -11,27 +11,17 @@ nav-menu:
 <!-- Banner -->
 
 <section id="banner" class="major">
-
-<section id="two" class="spotlights">
-	<section>
-		<a href="#tiles" class="scrolly image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
+	<div class="inner">
+		<header class="major">
+			<h1>{{ page.landing-title }}</h1>
+		</header>
 		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Autorit&agrave; per la tua immagine</h3>
-				</header>
-				<p>Se hai già dimostrato con azioni concrete quanto tu e la tua attività valete sul mercato, siete ad un passo dal successo.
-				Con un buon brand e un marketing mirato allo scopo di affermare autorità, avrai a disposizione un network professionale da mostrare ai tuoi potenziali partner, clienti o sarai pronto per affrontare campagne di advertise.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
+			<p style="text-transform: uppercase;">{{ site.description }}</p>
+			<ul class="actions">
+				<li><a href="#one" class="button next scrolly">Come puoi aiutarmi?</a></li>
+			</ul>
 		</div>
-	</section>
-
-	
+	</div>
 </section>
 
 <!-- Main -->
@@ -47,6 +37,11 @@ nav-menu:
 			<h2>Crea la tua immagine su web!</h2>
 		</header>
 		<p>Avvalendomi degli strumenti più efficaci ed attuali sono ingrado di creare il tuo blog, portfolio, landing page pubblicitaria e di ideare e pianificare una strategia di promozione adatta ai servizi o prodotti di cui ti occupi!</p>
+
+		<div class="row 200%">
+			<div class="6u 12u$(medium)"><p>cazzopoli</p></div>
+			<div class="6u 12u$(medium)"><p>cazzopoli</p></div>
+		</div>
 
 		<div class="row 200%">
 			<div class="6u 12u$(medium)">

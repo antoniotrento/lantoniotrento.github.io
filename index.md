@@ -25,7 +25,7 @@ nav-menu:
 	</div></div>
 
 	<div class="6u 12u$(medium)">
-		<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		<span><img src="assets/images/pic08.jpg" alt="" data-position="center center" /></span>
 	</div>
 
 	</div>

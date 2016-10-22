@@ -24,6 +24,7 @@ nav-menu:
 		</ul>
 	</div></div>
 
+	<div class="6u 12u$(large)"><p>cazzopoli</p></div>
 
 	</div>
 <!--	<div class="inner">

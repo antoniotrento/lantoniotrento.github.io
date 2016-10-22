@@ -9,7 +9,7 @@ nav-menu:
 ---
 
 <!-- Banner -->
-
+<!--
 <section id="banner" class="major">
 
 <div class="row 200% inner">
@@ -28,18 +28,20 @@ nav-menu:
 		<span class="fit"><img src="assets/images/pic08.jpg" alt="" data-position="center center" /></span>
 	</div>
 
-	</div>
-<!--	<div class="inner">
+	</div> -->
+
+
+	<div class="inner">
 		<header class="major">
 			<h1>{{ page.landing-title }}</h1>
 		</header>
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
-				<li><a href="#one" class="button next scrolly">Come puoi aiutarmi?</a></li>
+				<li><a href="#one" class="button next scrolly">Come ti aiuto?</a></li>
 			</ul>
 		</div>
-	</div> .-->
+	</div>
 </section>
 
 <!-- Main -->

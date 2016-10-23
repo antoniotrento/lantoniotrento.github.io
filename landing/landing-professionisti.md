@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Landing per professionisti
-description: Sviluppo prodotti Squeeze e Landing Pages progettati per professionisti.
+description: A differenza di molti consulenti, focalizzati sul traffico, io mi occupo esclusivamente di vendite e risultati. <br />In pratica, trasformo i tuoi utenti in clienti. .
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
@@ -14,7 +14,8 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Per un professionista come te</h1>
+			<h2>Vuoi ottenere risultati dal web?</h2>
+			<h1>Landing Page vincente</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>

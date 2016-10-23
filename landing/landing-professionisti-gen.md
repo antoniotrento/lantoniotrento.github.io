@@ -17,7 +17,7 @@ title: Elements
 		</header>
 
 		</div>
-		<div class="6u 12u$(small)"><span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span></div>
+		<div class="6u 12u$(small)"><span class="image fit"><img src="/assets/images/pic03.jpg" alt="" /></span></div></div>
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>

@@ -23,7 +23,7 @@ title: Elements
 io mi occupo esclusivamente di vendite e risultati.</h3>
 <h4>In pratica, trasformo i tuoi utenti in clienti. </h4>
 	</div>
-	<hr />
+	<hr class="major" />
 	<div class="6u$ 12u$(small)">
 		<span class="image fit"><img src="/assets/images/pic03.jpg" alt="" /></span>
 	</div>

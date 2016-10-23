@@ -33,15 +33,18 @@ io mi occupo esclusivamente di vendite e risultati.</h3>
 
 <div class="row">
 	<div class="4u 12u$(medium)">
-		<h3>1.INDIVIDUO <br />IL PROBLEMA </h3>
+		<h2>1.INDIVIDUO</h2>
+		<h3>IL PROBLEMA </h3>
 		<p>Ogni giorno milioni di utenti cercano la soluzione ai loro problemi. Tu quale problema specifico risolvi?</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>2.SVILUPPO <br />LA LANDING PAGE</h3>
+		<h2>2.SVILUPPO</h2>
+		<h3>LA LANDING PAGE</h3>
 		<p>Renderò unica la tua offerta trasformandola nella migliore soluzione per i tuoi utenti.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>3.INTERCETTO UTENTI INTERESSATI</h3>
+		<h2>3.INTERCETTO</h3>
+		<h3>UTENTI INTERESSATI</h3>
 		<p>Tramite annunci su Google e Facebook mostrerò l'offerta solo agli utenti davvero interessati all'acquisto.</p>
 	</div>
 </div>

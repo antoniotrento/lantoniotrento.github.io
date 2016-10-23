@@ -23,9 +23,9 @@ title: Elements
 		<h1>LANDING PAGE VINCENTE</h1>
 	</header>
 		<h3>LA PAGINA WEB SPECIFICA PER ACQUISIRE CLIENTI ONLINE</h3>
-		<p>A differenza di molti consulenti, focalizzati sul traffico,
-io mi occupo esclusivamente di vendite e risultati.</p>
-<p>In pratica, trasformo i tuoi utenti in clienti. </p>
+		<h4>A differenza di molti consulenti, focalizzati sul traffico,
+io mi occupo esclusivamente di vendite e risultati.</h4>
+<h4>In pratica, trasformo i tuoi utenti in clienti. </h4>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<span class="image fit"><img src="/assets/images/pic03.jpg" alt="" /></span>

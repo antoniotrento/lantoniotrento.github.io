@@ -8,7 +8,7 @@ nav-menu: yes
 
 <!-- Banner -->
 <!-- Note: The "styleN" class below should match that of the header element. -->
-<section id="banner" class="style1 spotlights">
+<section id="banner" class="spotlights">
 
 
 	<section>

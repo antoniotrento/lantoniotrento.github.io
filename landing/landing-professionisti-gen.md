@@ -18,12 +18,14 @@ title: Elements
 <!-- Content -->
 <div class="row">
 	<div class="6u 12u$(small)">
-	<h2>Sem turpis amet semper</h2>
+	<h2>Vuoi ottenere risultati dal web?</h2>
 	<header class="major">
-		<h1>Elements</h1>
+		<h1>LANDING PAGE VINCENTE</h1>
 	</header>
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>LA PAGINA WEB SPECIFICA PER ACQUISIRE CLIENTI ONLINE</h3>
+		<p>A differenza di molti consulenti, focalizzati sul traffico,
+io mi occupo esclusivamente di vendite e risultati.</p>
+<p>In pratica, trasformo i tuoi utenti in clienti. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<span class="image fit"><img src="/assets/images/pic03.jpg" alt="" /></span>

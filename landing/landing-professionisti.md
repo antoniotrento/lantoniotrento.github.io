@@ -8,28 +8,9 @@ nav-menu: yes
 
 <!-- Banner -->
 <!-- Note: The "styleN" class below should match that of the header element.
-<section id="banner" class="style1"> -->
-<section class="spotlights">
+ -->
 
-	<section>
-		<a href="#tiles" class="scrolly image">
-			<img src="/assets/images/pic08.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Progettate con cura</h3>
-				</header>
-				<p>Tutte i nostri progetti sono sviluppati con i migliori strumenti disponibili sul mercato, i quali garantiscono un prodotto corretto, robusto, versatile e durevole nel tempo senza doverti preoccupare di manutenzione.</p>
-				<ul class="actions">
-					<li><a href="#tiles" class="button scrolly">Scopri di più</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-
-
-<!-- Banner iniziale
+<section id="banner" class="style1">
 	<div class="inner">
 		<span class="image">
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />

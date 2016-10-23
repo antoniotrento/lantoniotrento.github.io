@@ -43,7 +43,7 @@ io mi occupo esclusivamente di vendite e risultati.</h3>
 		<p>Renderò unica la tua offerta trasformandola nella migliore soluzione per i tuoi utenti.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h2>3.INTERCETTO</h3>
+		<h2>3.INTERCETTO</h2>
 		<h4>UTENTI INTERESSATI</h4>
 		<p>Tramite annunci su Google e Facebook mostrerò l'offerta solo agli utenti davvero interessati all'acquisto.</p>
 	</div>

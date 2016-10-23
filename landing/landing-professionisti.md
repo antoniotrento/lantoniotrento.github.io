@@ -13,7 +13,7 @@ nav-menu: yes
 
 	<section>
 		<a href="#tiles" class="scrolly image">
-			<img src="/assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="/assets/images/pic08.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">

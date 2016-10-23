@@ -8,9 +8,8 @@ nav-menu: yes
 
 <!-- Banner -->
 <!-- Note: The "styleN" class below should match that of the header element. -->
-<section id="banner" class="style1">
+<section id="banner" class="style1 spotlights">
 
-<section class="spotlights">
 
 		<a href="#tiles" class="scrolly image">
 			<img src="/assets/images/pic08.jpg" alt="" data-position="center center" />
@@ -26,7 +25,7 @@ nav-menu: yes
 				</ul>
 			</div>
 		</div>
-	</section>
+
 
 
 <!-- Banner iniziale

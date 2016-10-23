@@ -33,11 +33,11 @@ io mi occupo esclusivamente di vendite e risultati.</h3>
 
 <div class="row">
 	<div class="4u 12u$(medium)">
-		<h3>1.INDIVIDUO IL PROBLEMA </h3>
+		<h3>1.INDIVIDUO <br />IL PROBLEMA </h3>
 		<p>Ogni giorno milioni di utenti cercano la soluzione ai loro problemi. Tu quale problema specifico risolvi?</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>2.SVILUPPO LA LANDING PAGE</h3>
+		<h3>2.SVILUPPO <br />LA LANDING PAGE</h3>
 		<p>Renderò unica la tua offerta trasformandola nella migliore soluzione per i tuoi utenti.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">

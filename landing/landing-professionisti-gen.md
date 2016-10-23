@@ -18,7 +18,7 @@ title: Elements
 <!-- Content -->
 <div class="row">
 	<div class="6u 12u$(small)">
-	<h2>Vuoi ottenere risultati dal web?</h2>
+	<h2><i>Vuoi ottenere risultati dal web?</i></h2>
 	<header class="major">
 		<h1>LANDING PAGE VINCENTE</h1>
 	</header>

@@ -5,16 +5,12 @@ title: Elements
 
 <!-- Main -->
 <div id="main" class="alt">
-
-
-
 <!-- One -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
 		<!-- <h1>Elementes</h1> -->
 		</header>
-
 <!-- Content -->
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -22,9 +18,9 @@ title: Elements
 	<header class="major">
 		<h1>LANDING PAGE VINCENTE</h1>
 	</header>
-		<h3>LA PAGINA WEB SPECIFICA PER ACQUISIRE CLIENTI ONLINE</h3>
-		<h4>A differenza di molti consulenti, focalizzati sul traffico,
-io mi occupo esclusivamente di vendite e risultati.</h4>
+		<h2>LA PAGINA WEB SPECIFICA PER ACQUISIRE CLIENTI ONLINE</h2>
+		<h3>A differenza di molti consulenti, focalizzati sul traffico,
+io mi occupo esclusivamente di vendite e risultati.</h3>
 <h4>In pratica, trasformo i tuoi utenti in clienti. </h4>
 	</div>
 	<div class="6u$ 12u$(small)">

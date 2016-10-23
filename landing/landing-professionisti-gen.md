@@ -6,18 +6,14 @@ title: Elements
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- modifiche antonio -->
-<div class="row">
-<div class="6u 12u$(small)">
+
+
 <!-- One -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>Elements</h1>
 		</header>
-
-		</div>
-		<div class="6u 12u$(small)"><span class="image fit"><img src="/assets/images/pic03.jpg" alt="" /></span></div></div>
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>

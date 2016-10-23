@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Landing per professionisti
-description: A differenza di molti consulenti, focalizzati sul traffico, io mi occupo esclusivamente di vendite e risultati. <br />In pratica, trasformo i tuoi utenti in clienti. .
+description: A differenza di molti consulenti, focalizzati sul traffico, io mi occupo esclusivamente di vendite e risultati. <br />In pratica, trasformo i tuoi utenti in clienti.
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
@@ -18,7 +18,7 @@ nav-menu: yes
 			<h1>Landing Page vincente</h1>
 		</header>
 		<div class="content">
-			<p>{{ page.description }}</p>
+			<h3>{{ page.description }}</h3>
 		</div>
 	</div>
 </section>

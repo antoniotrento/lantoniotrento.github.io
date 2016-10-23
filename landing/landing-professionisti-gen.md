@@ -13,7 +13,7 @@ title: Elements
 		</header>
 <!-- Content -->
 <div class="row">
-	<div class="6u 12u$(small)">
+	<div class="8u 12u$(small)">
 	<h2><i>Vuoi ottenere risultati dal web?</i></h2>
 	<header class="major">
 		<h1>LANDING PAGE VINCENTE</h1>
@@ -23,7 +23,7 @@ title: Elements
 io mi occupo esclusivamente di vendite e risultati.</i></h3>
 <h4>IN PRATICA, TRASFORMO I TUOI UTENTI IN CLIENTI.</h4>
 	</div>
-	<div class="6u$ 12u$(small)">
+	<div class="4u$ 12u$(small)">
 		<span class="image fit"><img src="/assets/images/pic03.jpg" alt="" /></span>
 	</div>
 	<!-- Break -->

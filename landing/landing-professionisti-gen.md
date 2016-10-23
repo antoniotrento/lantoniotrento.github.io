@@ -12,7 +12,7 @@ title: Elements
 <section id="one">
 	<div class="inner">
 		<header class="major">
-		<h1>Elementes</h1>
+		<!-- <h1>Elementes</h1> -->
 		</header>
 
 <!-- Content -->

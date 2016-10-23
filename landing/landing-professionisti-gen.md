@@ -18,9 +18,9 @@ title: Elements
 	<header class="major">
 		<h1>LANDING PAGE VINCENTE</h1>
 	</header>
-		<h2>LA PAGINA WEB SPECIFICA PER ACQUISIRE CLIENTI ONLINE</h2>
-		<h3><i>A differenza di molti consulenti, focalizzati sul traffico,
-io mi occupo esclusivamente di vendite e risultati.</i></h3>
+		<h2><i>LA PAGINA WEB SPECIFICA PER ACQUISIRE CLIENTI ONLINE</i></h2>
+		<h3>A differenza di molti consulenti, focalizzati sul traffico,
+io mi occupo esclusivamente di vendite e risultati.</h3>
 <h4>IN PRATICA, TRASFORMO I TUOI UTENTI IN CLIENTI.</h4>
 	</div>
 	<div class="4u$ 12u$(small)">

@@ -21,7 +21,7 @@ title: Elements
 		<h2>LA PAGINA WEB SPECIFICA PER ACQUISIRE CLIENTI ONLINE</h2>
 		<h3><i>A differenza di molti consulenti, focalizzati sul traffico,
 io mi occupo esclusivamente di vendite e risultati.</i></h3>
-<h4>IN PREATICA, TRASFORMO I TUOI UTENTI IN CLIENTI.</h4>
+<h4>IN PRATICA, TRASFORMO I TUOI UTENTI IN CLIENTI.</h4>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<span class="image fit"><img src="/assets/images/pic03.jpg" alt="" /></span>

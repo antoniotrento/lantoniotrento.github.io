@@ -71,19 +71,20 @@ nav-menu: yes
 			</div>
 		</div>
 	</section>
-
+	<!-- Four -->
+<section id="four" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Per Studenti e disoccupati</h3>
+					<h3>Grandi visioni richiedono organizzazine</h3>
 				</header>
-				<p>Se sei uco e competitivo rispetto tutti gli altri.</p>
+				<p>Con Trendo Wen potrai supportare intuizioni attuabili e razionalizzazione di flussi di lavoro, in modo da sfornare una serie di prodotti atti a generare risultati in termini di vendita e conversione.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">In via di sviluppo</a></li>
+					<li><a href="generic.html" class="button">Scopri di piu</a></li>
 				</ul>
 			</div>
 		</div>

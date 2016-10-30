@@ -43,20 +43,9 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Imprese Grow Hacking</h3>
+					<h3>Per Imprenditori e precursori ad ampia visione</h3>
 				</header>
-				<p>Ho creato strategie di grow hacking per i miei account social ed alcuni blog:</p>
-				<ul>
-				<li>Grow Hack e automate <a  href="https://pinterest.com/antoniotrento" rel="nofollow">my Pinteres</a></li>
-				<li>Grow Hack <a href="https://weheartit.com/antoniotrento" rel="nofollow">my WeHeartIt</a></li>
-				<li>Grow Hack e automate <a href="https://twitter.com/officialtrento" rel="nofollow">my @officialtrento Twitter</a></li>
-				<li>Grow Hack <a href="https://vine.co/OfficialTrento" rel="nofollow">my @officialtrento Vine</a></li>
-				<li>Branding - Digital Strategy - Automation <a href="https://catsonweb.tumblr.com" rel="nofollow">CatsOnWeb</a></li>
-				<li>Branding - Digital Strategy - Automation <a href="https://officialtrento.altervista.org" rel="nofollow">Antonio Music Demo</a></li>
-				</ul>
-				<ul class="actions">
-					<li><a href="#tiles" class="button scrolly">Web Curriculum</a></li>
-				</ul>
+				<p>Ho sviluppato prodotti a cui si affidano oltre 100 Player del mercato italiano ed internazionale.</p>
 			</div>
 		</div>
 	</section>
@@ -67,9 +56,9 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Wordpress e Static Gens</h3>
+					<h3>Grandi visioni richiedono grande organizzazione</h3>
 				</header>
-				<p>Sviluppo siti web, blog in <a href="https://it.wikipedia.org/wiki/WordPress" alt="wikipidia Wordpress">Wordpress</a> e personalizzazione e sviluppo digital strategy con prodotti risultanti di classe A tramite <a href="https://www.google.it/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=static%20generator">static website generators</a> e cloud hosting.</p>
+				<p>Con Trendo Web potrai supportare intuizioni attuabili e razionalizzazione di flussi di lavoro, in modo da sfornare una serie di prodotti atti a generare risultati in termini di vendita e conversione.</p>
 				<ul class="actions">
 					<li><a href="#tiles" class="button scrolly">Behance folio</a></li>
 				</ul>
@@ -93,47 +82,6 @@ nav-menu: yes
 			</div>
 		</div>
 </section>
-
-
-
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Per Imprenditori ad ampia visione</h3>
-				</header>
-				<p>Ho sviluppato prodotti a cui si affidano oltre 100 Player del mercato italiano ed internazionale.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Scopri di piu</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-
-<!-- Three -->
-<section id="three" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Grandi visioni richiedono organizzazine</h3>
-				</header>
-				<p>Con Trendo Wen potrai supportare intuizioni attuabili e razionalizzazione di flussi di lavoro, in modo da sfornare una serie di prodotti atti a generare risultati in termini di vendita e conversione.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Scopri di piu</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-
 
 
 

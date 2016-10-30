@@ -85,19 +85,6 @@ nav-menu: yes
 
 </section>
 
-
-<!-- One -->
-<section id="two">
-	<div class="inner">
-		<header class="major">
-			<h1>Vuoi vedere i nostri prodotti web in azione?</h1>
-		</header>
-		<h3>Passa dalla home page di Trendo Web per scoprire tutti i tipi di prodotto o servizio che offro</h3>
-	</div>
-</section>
-
-
-
 <!-- Banner -->
 <!-- Note: The "styleN" class below should match that of the header element. -->
 <section id="banner" class="style3">
@@ -106,10 +93,10 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Mettiamoci in contatto</h1>
+			<h1>Vuoi vedere i nostri prodotti web in azione?</h1>
 		</header>
 		<div class="content">
-			<p>{{ page.description }}</p>
+			<p>Passa dalla home page di Trendo Web per scoprire tutti i tipi di prodotto o servizio che offro</p>
 		</div>
 	</div>
 </section>

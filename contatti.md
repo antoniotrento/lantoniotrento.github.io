@@ -34,46 +34,6 @@ nav-menu: yes
 	</div>
 </section>
 
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Per Imprenditori ad ampia visione</h3>
-				</header>
-				<p>Ho sviluppato prodotti a cui si affidano oltre 100 Player del mercato italiano ed internazionale.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Scopri di piu</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-
-<!-- Three -->
-<section id="three" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Grandi visioni richiedono organizzazine</h3>
-				</header>
-				<p>Con Trendo Wen potrai supportare intuizioni attuabili e razionalizzazione di flussi di lavoro, in modo da sfornare una serie di prodotti atti a generare risultati in termini di vendita e conversione.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Scopri di piu</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-
-
-
 <!-- Tree -->
 <section id="tree" class="spotlights">
 	<section>
@@ -132,7 +92,51 @@ nav-menu: yes
 				</ul>
 			</div>
 		</div>
+</section>
+
+
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Per Imprenditori ad ampia visione</h3>
+				</header>
+				<p>Ho sviluppato prodotti a cui si affidano oltre 100 Player del mercato italiano ed internazionale.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Scopri di piu</a></li>
+				</ul>
+			</div>
+		</div>
 	</section>
+
+<!-- Three -->
+<section id="three" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Grandi visioni richiedono organizzazine</h3>
+				</header>
+				<p>Con Trendo Wen potrai supportare intuizioni attuabili e razionalizzazione di flussi di lavoro, in modo da sfornare una serie di prodotti atti a generare risultati in termini di vendita e conversione.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Scopri di piu</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+
+
+
 
 
 	<!-- PARTI IN PIU

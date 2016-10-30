@@ -84,17 +84,15 @@ nav-menu: yes
 </section>
 
 
-<section id="banner" class="style3">
+
+
+<!-- One -->
+<section id="two">
 	<div class="inner">
-		<span class="image">
-			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
-		</span>
 		<header class="major">
-			<h1>Mettiamoci in contatto</h1>
+			<h1>Vuoi vedere i nostri prodotti web in azione?</h1>
 		</header>
-		<div class="content">
-			<p>{{ page.description }}</p>
-		</div>
+		<h3>Passa dalla home page di Trendo Web per scoprire tutti i tipi di prodotto o servizio che offro,</h3>
 	</div>
 </section>
 
@@ -218,11 +216,11 @@ nav-menu: yes
 
 
 
+Vuoi vedere i nostri prodotti web in azione?
 
+ 
 
-Vuoi vedere i nostri prodotti web in azione? 
-
-Prova a passare dalla home page dove potrai trovare il servizio che calza a pennello alla tua attività!
+Vuoi vedere i nostri prodotti web in azione?
 
 Come posso aiutare? Presentando la tua immagine professionale al meglio:
 

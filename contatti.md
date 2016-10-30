@@ -43,7 +43,7 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Per Imprenditori e precursori ad ampia visione</h3>
+					<h3>Per Imprenditori e precursori <br />ad ampia visione</h3>
 				</header>
 				<p>Ho sviluppato prodotti a cui si affidano oltre 100 Player del mercato italiano ed internazionale.</p>
 			</div>
@@ -56,7 +56,7 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Grandi visioni richiedono grande organizzazione</h3>
+					<h3>Grandi visioni richiedono <br />grande organizzazione</h3>
 				</header>
 				<p>Con Trendo Web potrai supportare intuizioni attuabili e razionalizzazione di flussi di lavoro, in modo da sfornare una serie di prodotti atti a generare risultati in termini di vendita e conversione.</p>
 				<ul class="actions">

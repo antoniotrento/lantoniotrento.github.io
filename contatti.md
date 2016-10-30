@@ -84,7 +84,7 @@ nav-menu: yes
 </section>
 
 
-<section id="banner2" class="style3">
+<section id="banner" class="style3">
 	<div class="inner">
 		<span class="image">
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />

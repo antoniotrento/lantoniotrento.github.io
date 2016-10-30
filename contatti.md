@@ -84,7 +84,19 @@ nav-menu: yes
 </section>
 
 
-
+<section id="banner2" class="style3">
+	<div class="inner">
+		<span class="image">
+			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
+		</span>
+		<header class="major">
+			<h1>Mettiamoci in contatto</h1>
+		</header>
+		<div class="content">
+			<p>{{ page.description }}</p>
+		</div>
+	</div>
+</section>
 
 
 	<!-- PARTI IN PIU

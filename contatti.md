@@ -85,6 +85,7 @@ nav-menu: yes
 
 </section>
 <br />
+<br />
 <!-- Banner -->
 <!-- Note: The "styleN" class below should match that of the header element. -->
 <section id="banner" class="style3">

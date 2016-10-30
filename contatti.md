@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Contatti
+title: Mettiamoci in contatto
 description: Contatta Antonio Trento <br />puoi ricevere la prima consulenza gratuitamente.
 image: assets/images/pic07.jpg
 nav-menu: yes
@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Contattami</h1>
+			<h1>Mettiamoci in contatto</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
@@ -30,7 +30,7 @@ nav-menu: yes
 		<header class="major">
 			<h2>Tool per la tua professionalit&agrave;</h2>
 		</header>
-		<p>Mi avvalgo </p>
+		<p>Trendo Web è il fornitore leader per soluzioni di internet marketing e di presentazioni,</p>
 	</div>
 </section>
 
@@ -43,15 +43,35 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Per Imprenditor</h3>
+					<h3>Per Imprenditori ad ampia visione</h3>
 				</header>
-				<p>Se sei udget.</p>
+				<p>Ho sviluppato prodotti a cui si affidano oltre 100 Player del mercato italiano ed internazionale.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Scopri di piu</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+
+<!-- Three -->
+<section id="three" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Grandi visioni richiedono organizzazine</h3>
+				</header>
+				<p>Con Trendo Wen potrai supportare intuizioni attuabili e razionalizzazione di flussi di lavoro, in modo da sfornare una serie di prodotti atti a generare risultati in termini di vendita e conversione.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Scopri di piu</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
@@ -185,13 +205,10 @@ nav-menu: yes
 
 </div>
 
-Mettiamoci in contatto
 
-Trendo Web è il fornitore leader per soluzioni di internet marketing e di presentazioni,
 
-Ho sviluppato prodotti a cui si affidano oltre 100 Player del mercato italiano ed internazionale.
 
-Con Trendo Wen potrai supportare intuizioni attuabili e razionalizzazione di flussi di lavoro, in modo da sfornare una serie di prodotti atti a generare risultati in termini di vendita e conversione.
+
 
 Vuoi vedere i nostri prodotti web in azione? 
 

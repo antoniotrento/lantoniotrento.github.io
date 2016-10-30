@@ -83,7 +83,7 @@ nav-menu: yes
 		</div>
 </section>
 
-
+</section>
 
 
 <!-- One -->

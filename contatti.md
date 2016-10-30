@@ -183,4 +183,36 @@ nav-menu: yes
 </section>
 
 
-</div> -->
+</div>
+
+Mettiamoci in contatto
+
+Trendo Web è il fornitore leader per soluzioni di internet marketing e di presentazioni,
+
+Ho sviluppato prodotti a cui si affidano oltre 100 Player del mercato italiano ed internazionale.
+
+Con Trendo Wen potrai supportare intuizioni attuabili e razionalizzazione di flussi di lavoro, in modo da sfornare una serie di prodotti atti a generare risultati in termini di vendita e conversione.
+
+Vuoi vedere i nostri prodotti web in azione? 
+
+Prova a passare dalla home page dove potrai trovare il servizio che calza a pennello alla tua attività!
+
+Come posso aiutare? Presentando la tua immagine professionale al meglio:
+
+- Sviluppando la tua landing page promozionale su web
+- Implementando per te un blog professionale
+- Progettando la tua digital strategy 
+- Consigliandoti come migliorare il tuo personal branding
+
+Mettetevi in ​​contatto con noi
+
+TUNE è il fornitore leader di soluzioni di mobile marketing e di prestazioni, di fiducia da più di 100 applicazioni di maggior incasso di qualsiasi altra piattaforma mobile marketing. Scopri come TUNE può guidare intuizioni attuabili e razionalizzare i flussi di lavoro, in modo da poter fornire risultati.
+
+Chiedi un esperto TUNE come possiamo aiutare:
+
+Vedere il nostro software in azione: Richiedi una dimostrazione del prodotto su misura e scoprire come si può prendere il vostro business al prossimo level.Become un Mobile Pro: Dal nostro programma di qualificazione TUNE alla ricerca e intuizioni, ci può aiutare a far crescere la tua carriera e diventare un cellulare vita master.Explore a TUNE: per saperne di carriera, o entrare in contatto con un rappresentante TUNE.
+Vedere il nostro software in azione: Richiedi una dimostrazione del prodotto su misura  e scopri come è possibile prendere il vostro business al prossimo level.Become un Mobile Pro: Dal nostro programma di qualificazione TUNE alla ricerca e intuizioni, ci può aiutare a far crescere la tua carriera e diventare un cellulare vita master.Explore a TUNE: per saperne di carriera, o entrare in contatto con un rappresentante TUNE.level.Become un Mobile Pro: Dal nostro programma di qualificazione TUNE alla ricerca e intuizioni, ci può aiutare a far crescere la tua carriera e diventare un cellulare vita master.Explore a TUNE: per saperne di carriera, o entrare in contatto con un rappresentante TUNE.
+
+
+
+ -->

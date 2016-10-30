@@ -71,7 +71,69 @@ nav-menu: yes
 			</div>
 		</div>
 	</section>
-	
+
+
+
+<!-- Tree -->
+<section id="tree" class="spotlights">
+	<section>
+		<a href="#tiles" class="image scrolly">
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Imprese Grow Hacking</h3>
+				</header>
+				<p>Ho creato strategie di grow hacking per i miei account social ed alcuni blog:</p>
+				<ul>
+				<li>Grow Hack e automate <a  href="https://pinterest.com/antoniotrento" rel="nofollow">my Pinteres</a></li>
+				<li>Grow Hack <a href="https://weheartit.com/antoniotrento" rel="nofollow">my WeHeartIt</a></li>
+				<li>Grow Hack e automate <a href="https://twitter.com/officialtrento" rel="nofollow">my @officialtrento Twitter</a></li>
+				<li>Grow Hack <a href="https://vine.co/OfficialTrento" rel="nofollow">my @officialtrento Vine</a></li>
+				<li>Branding - Digital Strategy - Automation <a href="https://catsonweb.tumblr.com" rel="nofollow">CatsOnWeb</a></li>
+				<li>Branding - Digital Strategy - Automation <a href="https://officialtrento.altervista.org" rel="nofollow">Antonio Music Demo</a></li>
+				</ul>
+				<ul class="actions">
+					<li><a href="#tiles" class="button scrolly">Web Curriculum</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="#tiles" class="image scrolly">
+			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Wordpress e Static Gens</h3>
+				</header>
+				<p>Sviluppo siti web, blog in <a href="https://it.wikipedia.org/wiki/WordPress" alt="wikipidia Wordpress">Wordpress</a> e personalizzazione e sviluppo digital strategy con prodotti risultanti di classe A tramite <a href="https://www.google.it/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=static%20generator">static website generators</a> e cloud hosting.</p>
+				<ul class="actions">
+					<li><a href="#tiles" class="button scrolly">Behance folio</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a href="#tiles" class="image scrolly">
+			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Web Master competente</h3>
+				</header>
+				<p>Utilizzo le ultime tecnologie di hosting su internet per permettere hai tuoi prodotti di avere una marcia in pi&ugrave; rispetto la concorrenza per prodotti con maggiore robustezza, sicurezza, versatilit&agrave;, velocit&agrave; e grazia.</p>
+				<ul class="actions">
+					<li><a href="#contact" class="button scrolly">Consulenza Gratuita</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 
 	<!-- PARTI IN PIU
 	<section>

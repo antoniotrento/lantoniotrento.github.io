@@ -88,7 +88,7 @@ nav-menu: yes
 <section id="banner" class="style3">
 	<div class="inner">
 		<span class="image">
-			<img src="assets/images/contattami-head.jpg" alt="" />
+			<img src="/assets/images/contattami-head.jpg" alt="" />
 		</span>
 		<header class="major">
 			<h1>Vuoi vedere i nostri prodotti web in azione?</h1>

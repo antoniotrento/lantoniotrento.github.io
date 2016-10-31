@@ -170,7 +170,7 @@ nav-menu: yes
 			</header>
 			<!-- CAROSELLO IMMAGINI ANTONIO -->
 		<div class="row 50% uniform">
-			<div class="4u"><span class="image fit"><img src="assets/images/github-logo.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/github.jpg" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="assets/images/digital-ocean-logo.jpg" alt="" /></span></div>
 			<div class="4u$"><span class="image fit"><img src="assets/images/jekyll-logo.jpg" alt="" /></span></div>
 			<!-- Break -->

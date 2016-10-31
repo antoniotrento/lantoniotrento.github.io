@@ -100,7 +100,7 @@ nav-menu: yes
 			<h1>Vuoi vedere i nostri prodotti web in azione?</h1>
 		</header>
 		<div class="content">
-			<p>Passa dalla home page di Trendo Web per scoprire tutti i tipi di prodotto o servizio che offro</p>
+			<p>Passa dalla <a href="/">home page</a> di Trendo Web per scoprire tutti i tipi di prodotto o servizio che offro</p>
 		</div>
 	</div>
 </section>

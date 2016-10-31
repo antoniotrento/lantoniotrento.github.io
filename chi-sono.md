@@ -28,7 +28,7 @@ nav-menu: yes
 <section id="tiles" class="tiles">
         <article>
                 <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" />
+                        <img src="{{ site.baseurl }}/assets/images/linkedin.jpg" alt="" />
                 </span>
                 <header class="major">
                         <h3><a href="https://it.linkedin.com/in/antoniotrento/?snip=false" class="link">LinkedIn</a></h3>
@@ -48,7 +48,7 @@ nav-menu: yes
 
 				<article>
                 <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" />
+                        <img src="{{ site.baseurl }}/assets/images/behance.jpg" alt="" />
                 </span>
                 <header class="major">
                         <h3><a href="https://behance.net/antoniotrento/?snip=false" class="link">Antonio su Behance</a></h3>
@@ -58,7 +58,7 @@ nav-menu: yes
 
 				<article>
                 <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" />
+                        <img src="{{ site.baseurl }}/assets/images/resume.jpg" alt="" />
                 </span>
                 <header class="major">
                         <h3><a href="https://antcv.github.io/?snip=false" class="link">Web Curriculum</a></h3>
@@ -68,7 +68,7 @@ nav-menu: yes
 
 				<article>
                 <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" />
+                        <img src="{{ site.baseurl }}/assets/images/steam.jpg" alt="" />
                 </span>
                 <header class="major">
                         <h3><a href="http://steamcommunity.com/id/flowkdj/?snip=false" class="link">Steam</a></h3>
@@ -78,7 +78,7 @@ nav-menu: yes
 
 				<article>
                 <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic06.jpg" alt="" />
+                        <img src="{{ site.baseurl }}/assets/images/vine-twitter.jpg" alt="" />
                 </span>
                 <header class="major">
                         <h3><a href="https://rebrand.ly/vine/?snip=false" class="link">Twitter e Vine</a></h3>
@@ -145,7 +145,7 @@ nav-menu: yes
 
 	<section>
 		<a href="#tiles" class="image scrolly">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/pic-blog-right-mac-win.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

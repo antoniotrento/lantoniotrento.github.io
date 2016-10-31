@@ -38,7 +38,7 @@ nav-menu: yes
 
         <article>
                 <span class="image">
-                        <img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" />
+                        <img src="{{ site.baseurl }}/assets/images/trento-comic-logo-big.jpg" alt="" />
                 </span>
                 <header class="major">
                         <h3><a href="https://blogantoniotrento.github.io/?snip=false" class="link">Trendo</a></h3>

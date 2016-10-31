@@ -38,7 +38,7 @@ nav-menu: yes
 <section id="tree" class="spotlights">
 	<section>
 		<a href="#tiles" class="image scrolly">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/pic-blog-left-mac-pro.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -68,7 +68,7 @@ nav-menu: yes
 
 	<section>
 		<a href="#tiles" class="image scrolly">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/pic-blog-left-mac-pro.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -225,7 +225,7 @@ nav-menu: yes
 
 Vuoi vedere i nostri prodotti web in azione?
 
- 
+
 
 Vuoi vedere i nostri prodotti web in azione?
 
@@ -233,7 +233,7 @@ Come posso aiutare? Presentando la tua immagine professionale al meglio:
 
 - Sviluppando la tua landing page promozionale su web
 - Implementando per te un blog professionale
-- Progettando la tua digital strategy 
+- Progettando la tua digital strategy
 - Consigliandoti come migliorare il tuo personal branding
 
 Mettetevi in ​​contatto con noi

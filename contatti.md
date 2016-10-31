@@ -98,5 +98,7 @@ nav-menu: yes
 		</div>
 	</div>
 </section>
-<br>
-<br>
+<br />
+<br />
+<br />
+<br />

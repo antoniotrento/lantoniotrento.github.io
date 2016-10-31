@@ -104,7 +104,7 @@ nav-menu: yes
 <section id="tree" class="spotlights">
 	<section>
 		<a href="#tiles" class="image scrolly">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/pic-blog-left-imac-pro.png alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -128,7 +128,7 @@ nav-menu: yes
 	</section>
 	<section>
 		<a href="#tiles" class="image scrolly">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/pic-blog-right-mac-win.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -145,7 +145,7 @@ nav-menu: yes
 
 	<section>
 		<a href="#tiles" class="image scrolly">
-			<img src="assets/images/pic-blog-right-mac-win.png" alt="" data-position="25% 25%" />
+			<img src="assets/images/pic-blog-left-mac-pro.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

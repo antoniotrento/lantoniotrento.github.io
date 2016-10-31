@@ -18,6 +18,9 @@ nav-menu: yes
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
+			<ul class="actions">
+				<li><a href="#contact" class="button next scrolly">Contattami</a></li>
+			</ul>
 		</div>
 	</div>
 </section>
@@ -30,7 +33,7 @@ nav-menu: yes
 		<header class="major">
 			<h2>Tool per la tua professionalit&agrave;</h2>
 		</header>
-		<p>Trendo Web è il fornitore leader per soluzioni di internet marketing e di presentazioni,</p>
+		<p>Trendo Web è il fornitore di servizi per freelance imprenditori e piccole imprese leader per soluzioni di internet marketing e di presentazioni.</p>
 	</div>
 </section>
 
@@ -73,7 +76,7 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Web Master competente</h3>
+					<h3>Web Master</h3>
 				</header>
 				<p>Utilizzo le ultime tecnologie di hosting su internet per permettere hai tuoi prodotti di avere una marcia in pi&ugrave; rispetto la concorrenza per prodotti con maggiore robustezza, sicurezza, versatilit&agrave;, velocit&agrave; e grazia.</p>
 				<ul class="actions">

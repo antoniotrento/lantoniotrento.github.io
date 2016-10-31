@@ -62,9 +62,6 @@ nav-menu: yes
 					<h3>Grandi visioni richiedono <br />grande organizzazione</h3>
 				</header>
 				<p>Con Trendo Web potrai supportare intuizioni attuabili e razionalizzazione di flussi di lavoro, in modo da sfornare una serie di prodotti atti a generare risultati in termini di vendita e conversione.</p>
-				<ul class="actions">
-					<li><a href="#tiles" class="button scrolly">Behance folio</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -79,9 +76,6 @@ nav-menu: yes
 					<h3>Web Master</h3>
 				</header>
 				<p>Utilizzo le ultime tecnologie di hosting su internet per permettere hai tuoi prodotti di avere una marcia in pi&ugrave; rispetto la concorrenza per prodotti con maggiore robustezza, sicurezza, versatilit&agrave;, velocit&agrave; e grazia.</p>
-				<ul class="actions">
-					<li><a href="#contact" class="button scrolly">Consulenza Gratuita</a></li>
-				</ul>
 			</div>
 		</div>
 </section>

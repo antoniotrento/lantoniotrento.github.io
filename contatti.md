@@ -2,7 +2,7 @@
 layout: landing
 title: Mettiamoci in contatto
 description: Contatta Antonio Trento <br />puoi ricevere la prima consulenza gratuitamente.
-image: assets/images/pic07.jpg
+image: assets/images/contattami-head.jpg
 nav-menu: yes
 ---
 
@@ -88,7 +88,7 @@ nav-menu: yes
 <section id="banner" class="style3">
 	<div class="inner">
 		<span class="image">
-			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
+			<img src="{{ site.baseurl }}/assets/images/contattami-head.jpg" alt="" />
 		</span>
 		<header class="major">
 			<h1>Vuoi vedere i nostri prodotti web in azione?</h1>

@@ -170,17 +170,17 @@ nav-menu: yes
 			</header>
 			<!-- CAROSELLO IMMAGINI ANTONIO -->
 		<div class="row 50% uniform">
-			<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/github-logo.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/digital-ocean-logo.jpg" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="assets/images/jekyll-logo.jpg" alt="" /></span></div>
 			<!-- Break -->
-			<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/wordpress-logo.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/siteground-logo.jpg" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="assets/images/studiopress-logo.jpg" alt="" /></span></div>
 			<!-- Break -->
-			<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/optimizepress-logo.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/getresponse-logo.jpg" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="assets/images/mailchimp-logo.jpg" alt="" /></span></div>
 		</div>
 
 

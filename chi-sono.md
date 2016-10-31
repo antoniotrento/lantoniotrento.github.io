@@ -104,7 +104,7 @@ nav-menu: yes
 <section id="tree" class="spotlights">
 	<section>
 		<a href="#tiles" class="image scrolly">
-			<img src="assets/images/pic-blog-left-imac-pro.png alt="" data-position="center center" />
+			<img src="assets/images/pic-blog-left-imac-pro.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

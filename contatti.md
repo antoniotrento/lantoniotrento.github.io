@@ -73,9 +73,9 @@ nav-menu: yes
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Web Master</h3>
+					<h3>Cogli l'essenza del tuo business</h3>
 				</header>
-				<p>Utilizzo le ultime tecnologie di hosting su internet per permettere hai tuoi prodotti di avere una marcia in pi&ugrave; rispetto la concorrenza per prodotti con maggiore robustezza, sicurezza, versatilit&agrave;, velocit&agrave; e grazia.</p>
+				<p>Analizzando minuziosamente le possibili applicazioni del tuo business su web ne vaglieremo e applicheremo le migliore in base al budget e tempo di efficacia.</p>
 			</div>
 		</div>
 </section>
